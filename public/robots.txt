@@ -1,0 +1,8 @@
+# Robots.txt for SYM Egypt Official Website
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap Location
+Sitemap: https://symegypt.com/sitemap.xml

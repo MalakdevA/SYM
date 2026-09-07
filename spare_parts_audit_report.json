@@ -1,0 +1,105 @@
+{
+  "summary": {
+    "totalParts": 6292,
+    "partsWithVerifiedImages": 4936,
+    "partsWithoutImages": 1356,
+    "coveragePercentage": 78.45,
+    "totalImagesInDirectory": 5349,
+    "uniqueImagesUsed": 3390,
+    "sharedImagesCount": 799,
+    "unusedImagesCount": 1959,
+    "zeroFalseMismatches": true
+  },
+  "matchBreakdown": {
+    "part_model": 705,
+    "partbase_model": 149,
+    "exact_code1": 3303,
+    "part_model_rev": 377,
+    "part_model_color": 58,
+    "partbase_model_rev": 112,
+    "exact_code2": 139,
+    "partbase_model_color": 93
+  },
+  "mostUsedLegitimateSharedParts": [
+    {
+      "image": "61100-XFA-0003-BT.jpg",
+      "count": 14
+    },
+    {
+      "image": "53206-APA-0000.jpg",
+      "count": 11
+    },
+    {
+      "image": "50306-M9Q-0000-CN2.jpg",
+      "count": 10
+    },
+    {
+      "image": "64318-L3A-0000.jpg",
+      "count": 10
+    },
+    {
+      "image": "83500-XFA-0000-BT.jpg",
+      "count": 10
+    },
+    {
+      "image": "83520-XFA-0003-BT.jpg",
+      "count": 10
+    },
+    {
+      "image": "61100-AAA-0000-AE.jpg",
+      "count": 10
+    },
+    {
+      "image": "14523-Z8G-0000.jpg",
+      "count": 9
+    },
+    {
+      "image": "18291-Z8G-0000.jpg",
+      "count": 9
+    },
+    {
+      "image": "45105-AJF-0000.jpg",
+      "count": 9
+    },
+    {
+      "image": "45106-AJF-0000.jpg",
+      "count": 9
+    },
+    {
+      "image": "94601-15000.jpg",
+      "count": 9
+    },
+    {
+      "image": "53205-XFA-0000-BT.jpg",
+      "count": 9
+    },
+    {
+      "image": "64301-XFA-0000-BT.jpg",
+      "count": 9
+    },
+    {
+      "image": "83620-XFA-0003-BT.jpg",
+      "count": 9
+    },
+    {
+      "image": "53211-M9Q-0000-CN2.jpg",
+      "count": 8
+    },
+    {
+      "image": "16905-ABA-0000.jpg",
+      "count": 8
+    },
+    {
+      "image": "83520-ATA-0001-AE.jpg",
+      "count": 8
+    },
+    {
+      "image": "83620-ATA-0001-AE.jpg",
+      "count": 8
+    },
+    {
+      "image": "16950-M9Q-0001.jpg",
+      "count": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "totalParts": 6292,
+    "pricedPartsCount": 6292,
+    "unpricedPartsCount": 0,
+    "pricingCoveragePercentage": 100.0,
+    "unpricedPercentage": 0.0,
+    "minPriceEGP": 1.16,
+    "maxPriceEGP": 54824.56,
+    "averagePriceEGP": 1105.84,
+    "priceRangesCount": {
+      "under_50_egp": 917,
+      "between_50_and_500_egp": 2514,
+      "between_500_and_2000_egp": 2093,
+      "between_2000_and_10000_egp": 679,
+      "above_10000_egp": 89
+    }
+  },
+  "unpricedParts": []
+}

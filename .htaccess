@@ -1,0 +1,79 @@
+# SYM Egypt Master Production Apache Configuration (.htaccess)
+Options -Indexes +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+# 0. Block Direct Access to Sensitive Files and Configuration Dumps
+<FilesMatch "\.(sql|env|env\..*|git|gitignore|log|bak|zip|md|txt|json)$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+</FilesMatch>
+
+# Allow public access only to necessary sitemap, manifest and robot files
+<FilesMatch "^(sitemap\.xml|robots\.txt|manifest\.json)$">
+  <IfModule mod_authz_core.c>
+    Require all granted
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Allow from all
+  </IfModule>
+</FilesMatch>
+
+# Prevent direct browsing of sensitive API backend config files
+<IfModule mod_rewrite.c>
+  RewriteRule ^api/config/.*$ - [F,L,NC]
+</IfModule>
+
+# 0.1. HTTPS & Domain Canonicalization (Redirect www and secondary domains to https://symegypt.com)
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\.symegypt\.com$ [NC] [OR]
+RewriteCond %{HTTP_HOST} ^(www\.)?sym-egypt\.com$ [NC]
+RewriteRule ^(.*)$ https://symegypt.com/$1 [R=301,L]
+
+# 1. Enable GZIP Compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json application/xml image/svg+xml
+</IfModule>
+
+# 2. Security Headers
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set X-XSS-Protection "1; mode=block"
+  Header set Referrer-Policy "origin-when-cross-origin"
+  Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+  # script-src/style-src need 'unsafe-inline': this is a Next.js static export whose pages
+  # rely on inline <script> tags for React Server Component hydration (self.__next_f.push)
+  # and hundreds of inline style={{}} attributes — there is no per-request server here to
+  # emit nonces for a stricter policy. CSP still meaningfully blocks loading script/object
+  # content from any other origin, framing by other sites, and non-HTTPS form/script targets.
+  Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://s7ap1.scene7.com; font-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; frame-src 'self'; upgrade-insecure-requests"
+</IfModule>
+
+# 3. Handle PHP API Endpoint Rewrites (/api/orders -> /api/orders/index.php)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^api/([a-zA-Z0-9_-]+)/?$ api/$1/index.php [L,QSA]
+
+# 4. Handle Clean HTML URLs for Next.js Static Export (/all-models -> /all-models.html)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+RewriteRule ^([^/]+)/?$ $1.html [L]
+
+# 5. Handle Nested HTML URLs (/products/jet-14-evo -> /products/jet-14-evo.html)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1/$2.html -f
+RewriteRule ^([^/]+)/([^/]+)/?$ $1/$2.html [L]
+
+# 6. Fallback to index.html for SPA routing
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [L]

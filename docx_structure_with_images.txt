@@ -1,0 +1,122 @@
+rId to image mapping: {'rId9': 'image1.jpeg', 'rId10': 'image2.png', 'rId11': 'image3.png', 'rId12': 'image4.png', 'rId13': 'image5.png', 'rId14': 'image6.png', 'rId15': 'image7.jpeg'}
+TEXT: SEMOTIVE
+TEXT: VEHICLES MANUFACTURING LLC
+TEXT: THE UNIFIED INDUSTRIAL ENTITY FOR THE GROUP OF FACTORIESFROM INDUSTRIAL HERITAGE TO THE NEXT GENERATION OF LIGHT-VEHICLE MANUFACTURING
+===> IMAGE FOUND: ['image1.jpeg']
+     Context text: 
+TEXT: Corporate & Industrial Profile  |  Egypt  |  2026
+TEXT: SEMOTIVE: The Industrial Holding Entity for the Group of Factories
+TEXT: Hammers International for Light Transportation Industry was established in 2000, building more than two decades of manufacturing experience in Egypt’s two-wheel and light-vehicle sector. The business developed around vehicle production, technical cooperation, frame and engine manufacturing, and the progressive adoption of robotic and CNC technologies.
+TEXT: A defining pillar of this industrial heritage is 14 years of close and continuous industrial cooperation with Taiwan’s Sanyang Motor Co., Ltd. (SYM). This relationship developed far beyond distribution: it built a cumulative platform of licensed manufacturing, technical support, production engineering, frame and engine manufacturing know-how, quality development, product knowledge and after-sales capability in Egypt.
+TEXT: The Transformation
+TEXT: SEMOTIVE Vehicles Manufacturing LLC is now the Group’s unified industrial entity, bringing its manufacturing units, factories and industrial capabilities under one corporate and operational platform. SEMOTIVE integrates vehicle and engine manufacturing, precision components, robotic engineering, CNC machining, mould and tooling production, quality systems and advanced manufacturing technologies within a scalable industrial ecosystem.
+TEXT: 2000
+TEXT: HAMMERS ESTABLISHED
+TEXT: 25+ YEARS
+TEXT: INDUSTRIAL HERITAGE
+TEXT: GROUP
+TEXT: OF SPECIALIZED FACTORIES
+TEXT: A clear industrial progression
+TEXT: ASSEMBLY  →  MANUFACTURING  →  LOCALIZATION  →  PRECISION ENGINEERING  →  INDUSTRIAL ECOSYSTEM
+TEXT: SEMOTIVE 10th of Ramadan
+TEXT: The Diamond Manufacturing Base for Light Vehicles
+TEXT: At the center of SEMOTIVE’s next industrial chapter is its new manufacturing complex in 10th of Ramadan City. The site is conceived as the Group’s Diamond Manufacturing Base: a high-technology platform for scalable light-vehicle production, deeper localization and precision manufacturing.
+TEXT: 30,000 m²
+TEXT: MANUFACTURING SET
+TEXT: 100,000
+TEXT: VEHICLES / YEAR CAPACITY
+TEXT: 10th OF RAMADAN
+TEXT: INDUSTRIAL LOCATION
+TEXT: The factory is being structured to move beyond conventional assembly. Its industrial architecture is intended to connect vehicle production with robotic engineering, CNC machining, mould and tooling capability, engine component manufacturing, quality systems and future product development.
+TEXT: Factory mission
+TEXT: Create a scalable Egyptian manufacturing base for light vehicles.
+TEXT: Increase local value creation through component and process localization.
+TEXT: Build in-house precision engineering and tooling capabilities.
+TEXT: Deploy advanced automation to improve repeatability, quality and productivity.
+TEXT: Establish a platform capable of serving domestic demand and future regional export growth.
+TEXT: Advanced Manufacturing Technology
+TEXT: ROBOTIC ENGINEERING
+TEXT: Advanced robotic manufacturing and automation under industrial cooperation with ABB, supporting precision, consistency and production efficiency.
+TEXT: CNC MOULD & TOOL MAKING
+TEXT: In-house CNC capability for moulds, dies, fixtures and production tooling, strengthening product industrialization and reducing dependence on imported tooling.
+TEXT: ENGINE & CYLINDER-BLOCK MACHINING
+TEXT: Advanced CNC machining for engine components and cylinder blocks using German manufacturing technologies and DMG MORI equipment.
+TEXT: Together, these capabilities are intended to create a manufacturing system in which automation, machining, tooling and vehicle production reinforce one another. The strategic value is not only higher output, but also greater control over quality, localization, lead time and industrial know-how.
+TEXT: Technology as an industrial capability — not a showroom feature
+TEXT: SEMOTIVE’s technology program is positioned around production capability: robots perform repeatable industrial operations; CNC systems create precision parts and tooling; and the integrated factory model retains more manufacturing knowledge inside the organization.
+TEXT: SEMOTIVE LLC: The Unified Industrial Platform for the Group of Factories
+TEXT: SEMOTIVE is not a single factory or merely a final-assembly operation. It is the unified industrial entity and corporate umbrella for the Group’s specialized manufacturing units, factories and industrial capabilities, operating under one industrial strategy and management platform. The model connects the principal layers of light-vehicle manufacturing within one integrated production ecosystem.
+TEXT: Light-vehicle manufacturing and final assembly.
+TEXT: Engine and powertrain-related manufacturing.
+TEXT: CNC precision machining for mechanical components.
+TEXT: Cylinder-block machining and engine-component processing.
+TEXT: Mould, die, fixture and tooling manufacturing.
+TEXT: Robotic production engineering and automated manufacturing cells.
+TEXT: Quality control, testing and industrial process engineering.
+TEXT: Research, product adaptation and future electric-mobility capability.
+TEXT: Why integration matters
+TEXT: The Group-of-Factories structure allows SEMOTIVE to treat localization as an engineering program rather than only a sourcing exercise. Components can be redesigned for manufacturability, tooling can be developed locally, processes can be automated, and quality feedback can return directly to production engineering.
+TEXT: Industrial Heritage with SYM
+TEXT: Fourteen years of close industrial cooperation with Sanyang Motor Co., Ltd. (SYM) form a major part of the Group’s accumulated industrial capital. The relationship has combined licensed manufacturing in Egypt with technical support, manufacturing know-how, frame and engine production experience, robotic and CNC adoption, quality development and deep product knowledge. This 14-year industrial partnership is an important foundation upon which SEMOTIVE’s larger manufacturing ecosystem is now being built.
+TEXT: Technical themes retained from the legacy profile
+TEXT: Vehicle and engine manufacturing know-how.
+TEXT: Automatic production equipment and manufacturing engineering.
+TEXT: Mould development and mechanical processing capability.
+TEXT: Product development across scooters, motorcycles and electric mobility.
+TEXT: Quality, innovation and professional manufacturing discipline.
+===> IMAGE FOUND: ['image2.png']
+     Context text: 
+TEXT: Legacy SYM material retained as part of the industrial heritage section.
+TEXT: Engine Technology & Manufacturing Knowledge
+TEXT: The original technical profile contains useful examples of the engine technologies associated with the SYM manufacturing knowledge base. These are retained here as technical heritage, while SEMOTIVE’s new factory story focuses on the capability to manufacture and machine components with greater local depth.
+===> IMAGE FOUND: ['image3.png']
+     Context text: 
+TEXT: Steadite Alloy CylinderUniform oil distribution on the cylinder wall is presented in the legacy profile as supporting wear resistance, air-tightness and performance.
+===> IMAGE FOUND: ['image4.png']
+     Context text: 
+TEXT: 4-Valve Power EngineThe four-valve architecture increases intake and exhaust flow area, supporting fuller combustion and higher power potential.
+===> IMAGE FOUND: ['image5.png']
+     Context text: 
+TEXT: Ceramic-Coated CylinderThe legacy profile describes SiC ceramic particles dispersed on the cylinder wall to provide hardness, wear resistance and heat resistance.
+===> IMAGE FOUND: ['image6.png']
+     Context text: 
+TEXT: Electronic Fuel InjectionEFI uses electronic control to calculate air-fuel requirements for improved combustion.
+TEXT: Quality, Sustainability & Future Mobility
+TEXT: The legacy profile places strong emphasis on environmental management, pollution prevention, energy saving, resource recycling and the development of more efficient products. It also identifies electric mobility as a long-term direction for the vehicle industry.
+===> IMAGE FOUND: ['image7.jpeg']
+     Context text: 
+TEXT: SEMOTIVE’s forward platform
+TEXT: SEMOTIVE’s new industrial base is designed to provide the manufacturing flexibility required for future product generations. The same capabilities that support conventional light vehicles — automation, precision machining, tooling, testing and process engineering — can form the industrial foundation for future electric-mobility programs.
+TEXT: Manufacturing quality built into the process.
+TEXT: Resource-efficient production and reduced industrial waste.
+TEXT: Engineering readiness for new powertrain and mobility technologies.
+TEXT: A production platform capable of evolving with market and regulatory requirements.
+TEXT: SEMOTIVE Industrial Vision
+TEXT: SEMOTIVE’s ambition is to convert accumulated manufacturing experience into a modern Egyptian industrial platform with the scale, technology and engineering depth to compete regionally.
+TEXT: “Hammers represents the industrial heritage.SEMOTIVE represents its transformation into the future.”
+TEXT: Strategic direction
+TEXT: Deepen Egyptian manufacturing and local value creation.
+TEXT: Build a sustainable ecosystem of suppliers, tooling and precision processes.
+TEXT: Use automation and CNC technologies to raise industrial capability and consistency.
+TEXT: Develop the 10th of Ramadan complex as the Group’s flagship manufacturing base.
+TEXT: Scale toward an annual production capacity of 100,000 light vehicles.
+TEXT: Create a foundation for regional market growth and future export-oriented manufacturing.
+TEXT: Industrial proposition
+TEXT: SEMOTIVE is not simply a new name for Hammers. Hammers represents the Group’s industrial roots and accumulated manufacturing heritage, while SEMOTIVE Vehicles Manufacturing LLC is the current unified industrial entity that consolidates and develops the Group’s factories, manufacturing units and advanced industrial capabilities.
+TEXT: SEMOTIVE at a Glance
+TEXT: 25+ YEARS
+TEXT: EXPERIENCE
+TEXT: 30,000 m²
+TEXT: NEW INDUSTRIAL BASE
+TEXT: 100,000
+TEXT: ANNUAL VEHICLE CAPACITY
+TEXT: ABB
+TEXT: ROBOTIC COOPERATION
+TEXT: DMG MORI
+TEXT: GERMAN CNC TECHNOLOGY
+TEXT: CNC
+TEXT: MOULDS • TOOLING • ENGINE PARTS
+TEXT: The next chapter of Egyptian light-vehicle manufacturing
+TEXT: Built on Hammers’ industrial history and expanded through SEMOTIVE Vehicles Manufacturing LLC, the Group is creating a high-technology manufacturing platform centered on localization, precision engineering, automation and scalable vehicle production.
+TEXT: SEMOTIVE
+TEXT: ENGINEERING INDUSTRY.  MANUFACTURING THE FUTURE.

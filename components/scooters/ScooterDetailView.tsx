@@ -1296,6 +1296,9 @@ export function ScooterDetailView({ product: initialProduct, allProducts }: Scoo
                             quantity: 1,
                             image: selectedImage || product.image,
                             item_type: 'scooter',
+                            meta: {
+                              capacity: product.capacity || undefined,
+                            },
                           });
                         }}
                         className="px-6 py-2.5 bg-[#E60012] hover:bg-[#C4000F] text-white font-extrabold text-xs sm:text-sm rounded-full transition-all shadow-[0_0_15px_rgba(230,0,18,0.4)] flex items-center justify-center gap-2 hover:scale-105 active:scale-95 cursor-pointer whitespace-nowrap"

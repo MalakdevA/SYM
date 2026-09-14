@@ -33,8 +33,14 @@ export function PartCard({ part, categoryId, language }: PartCardProps) {
       quantity: 1,
       image: part.image || '/SymLogo-S-red.png',
       item_type: 'spare_part',
+      meta: {
+        internalCode: part.internalCode || undefined,
+        externalCode: part.externalCode1 || undefined,
+        model: part.model || undefined,
+      },
     });
   };
+
 
   const handleWhatsApp = () => {
     const msg = isAr

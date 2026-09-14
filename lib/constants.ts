@@ -1,8 +1,6 @@
 // Feature toggles
-// Purchasing is temporarily paused (site not publicly launched for sales yet) — this flips
-// every "Buy Now / Add to Cart" entry point to a disabled "Coming Soon" state without touching
-// the underlying cart/checkout/Fawry code, so re-enabling later is just switching this back on.
-export const PURCHASING_ENABLED = false;
+// Purchasing is enabled — customers add to cart and order via WhatsApp.
+export const PURCHASING_ENABLED = true;
 
 // Color Palette
 export const COLORS = {

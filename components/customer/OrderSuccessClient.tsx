@@ -214,7 +214,7 @@ export function OrderSuccessClient({ orderNo }: { orderNo: string }) {
             </div>
             <div className="flex justify-between text-zinc-400 print:text-zinc-700">
               <span>مصاريف الشحن والتوصيل:</span>
-              <span className="font-bold text-emerald-400 print:text-emerald-700">توصيل معتمد مجاناً</span>
+              <span className="font-bold text-amber-400 print:text-amber-700">تُحدد وتُنسّق مع خدمة العملاء</span>
             </div>
             <div className="border-t border-zinc-800 pt-3 flex justify-between text-sm sm:text-base font-black text-white print:text-black print:border-zinc-300">
               <span>المبلغ الإجمالي المسدد بالكامل:</span>

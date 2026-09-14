@@ -11,7 +11,15 @@ export interface CartItem {
   quantity: number;
   image: string;
   item_type?: 'scooter' | 'spare_part';
+  // Extra detail fields — carried through to WhatsApp order message
+  meta?: {
+    capacity?: string;       // e.g. "300cc" — scooters/bikes
+    internalCode?: string;   // spare parts
+    externalCode?: string;   // spare parts
+    model?: string;          // spare parts compatible model
+  };
 }
+
 
 interface CartContextType {
   items: CartItem[];

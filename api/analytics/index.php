@@ -27,6 +27,7 @@ switch ($method) {
         break;
 
     case 'POST':
+        enforceRateLimit('analytics_telemetry', 60, 60);
         $input = getJsonInput();
         $path = sanitizeString($input['path'] ?? '/');
         $title = sanitizeString($input['title'] ?? 'SYM Egypt');

@@ -20,8 +20,9 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     sendResponse(false, null, "Method not allowed", 405);
 }
 
-// 1. Require Admin Authentication
+// 1. Require Admin Authentication & Enforce Rate Limit
 $admin = requireAdminAuth();
+enforceRateLimit('admin_upload', 20, 60);
 
 if (!isset($_FILES['file']) && !isset($_FILES['image'])) {
     sendResponse(false, null, "No image file provided", 400);

@@ -39,6 +39,24 @@ switch ($method) {
             $itemsStmt->execute([$order['id']]);
             $order['items'] = $itemsStmt->fetchAll();
 
+            // Check if caller is authenticated admin
+            $authHeader = $_SERVER['HTTP_AUTHORIZATION'] ?? $_SERVER['REDIRECT_HTTP_AUTHORIZATION'] ?? '';
+            $isAdmin = false;
+            if (!empty($authHeader) && preg_match('/Bearer\s(\S+)/i', $authHeader, $matches)) {
+                $chkStmt = $pdo->prepare("SELECT id FROM admin_users WHERE token = ? AND status = 'active' LIMIT 1");
+                $chkStmt->execute([trim($matches[1])]);
+                if ($chkStmt->fetch()) {
+                    $isAdmin = true;
+                }
+            }
+
+            // Mask customer PII for public unauthenticated lookups
+            if (!$isAdmin) {
+                $order['customer_phone'] = maskPhoneNumber($order['customer_phone'] ?? '');
+                $order['customer_email'] = maskEmailAddress($order['customer_email'] ?? '');
+                $order['customer_name'] = maskCustomerName($order['customer_name'] ?? '');
+            }
+
             sendResponse(true, $order);
         }
 

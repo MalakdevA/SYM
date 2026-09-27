@@ -122,7 +122,7 @@ export function SupportView() {
     },
     {
       q: isAr ? 'كيف يمكنني حجز موعد صيانة للسكوتر الخاص بي؟' : 'How can I schedule a maintenance appointment for my scooter?',
-      a: isAr ? 'يمكنك حجز موعد الصيانة عبر الاتصال بـ 01271384149، أو ملء النموذج أدناه، أو التواصل الفوري عبر الواتساب.' : 'You can book your service slot by calling 01271384149, sending a message through the form below, or contacting our WhatsApp customer desk directly.'
+      a: isAr ? 'يمكنك حجز موعد الصيانة عبر الاتصال بـ 01279881123، أو ملء النموذج أدناه، أو التواصل الفوري عبر الواتساب.' : 'You can book your service slot by calling 01279881123, sending a message through the form below, or contacting our WhatsApp customer desk directly.'
     }
   ];
 
@@ -191,7 +191,7 @@ export function SupportView() {
                 className="w-full sm:w-auto text-center bg-red-600 hover:bg-red-500 text-white font-bold text-xs sm:text-sm px-6 py-3 rounded-xl transition-all shadow-lg shadow-red-600/30 flex items-center justify-center gap-2"
               >
                 <PhoneCall className="w-4 h-4" />
-                <span>{t('support.callHotline', 'Call Hotline 01271384149')}</span>
+                <span>{t('support.callHotline', 'Call Hotline 01279881123')}</span>
               </a>
             </div>
           </div>

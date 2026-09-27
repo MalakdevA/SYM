@@ -701,7 +701,7 @@ export default function Header() {
 
           <div className="pt-4 border-t border-zinc-800 space-y-3">
             <a
-              href="https://wa.me/201271384149"
+              href="https://wa.me/201279881123"
               target="_blank"
               rel="noreferrer"
               className="flex items-center justify-between p-3.5 rounded-xl bg-[#E60012]/10 border border-[#E60012]/30 text-white font-bold text-xs"
@@ -710,7 +710,7 @@ export default function Header() {
                 <Phone className="w-4 h-4 text-[#E60012]" />
                 <span>{t('nav.hotline', 'Customer Care')}</span>
               </div>
-              <span className="font-mono text-[#E60012]">01271384149</span>
+              <span className="font-mono text-[#E60012]">01279881123</span>
             </a>
           </div>
         </div>

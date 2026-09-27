@@ -59,7 +59,7 @@ const DEFAULT_CONTENT: SiteContent = {
   heroSubtitle: 'تشكيلة 2026 الرسمية من أحدث السكوترز والتكنولوجيا التايوانية المتقدمة مع ضمان الموزع المعتمد وشبكة صيانة في كافة المحافظات.',
   bannerText: '🔥 خصومات وعروض خاصة بمناسبة الصيف على موديلات Jet 14 EVO و Symphony ST!',
   showBanner: true,
-  contactPhone: '01271384149',
+  contactPhone: '01279881123',
   contactEmail: 'info@sym-egypt.com',
   contactAddress: 'القاهرة - مصر: المنطقة الصناعية - طريق النصر',
   footerNotice: 'جميع الحقوق محفوظة © 2026 شركة SYM Egypt - الوكيل الرسمي لموتوسيكلات وسكوترز SYM.',

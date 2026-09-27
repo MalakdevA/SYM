@@ -13,6 +13,8 @@ if (basename($_SERVER['SCRIPT_FILENAME'] ?? '') === 'config.php') {
     exit('Forbidden');
 }
 
+require_once __DIR__ . '/../config/env.php';
+
 class FawryConfig {
     /** Staging API base URL */
     private const STAGING_BASE  = 'https://atfawry.fawrystaging.com';

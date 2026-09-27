@@ -115,13 +115,13 @@ export const SOCIAL_MEDIA = {
   facebook: 'https://www.facebook.com/share/1D4YAV4pSp/?mibextid=wwXIfr',
   instagram: 'https://www.instagram.com/sym_egypt_scooters?igsh=dmMwNml5a25qdDM4',
   tiktok: 'https://www.tiktok.com/@sym.hammers?_r=1&_t=ZS-98XiXssVcu5',
-  whatsapp: 'https://wa.me/201271384149',
+  whatsapp: 'https://wa.me/201279881123',
 } as const;
 
 // Contact Information
 export const CONTACT_INFO = {
-  phone: '01271384149',
-  whatsapp: '201271384149',
+  phone: '01279881123',
+  whatsapp: '201279881123',
   email: 'info@symegypt.com',
   address: 'Cairo, Egypt',
   supportEmail: 'support@symegypt.com',

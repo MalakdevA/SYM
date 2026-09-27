@@ -246,7 +246,7 @@ export function OrderSuccessClient({ orderNo }: { orderNo: string }) {
           </button>
 
           <a
-            href={`https://wa.me/201271384149?text=${whatsappMessage}`}
+            href={`https://wa.me/201279881123?text=${whatsappMessage}`}
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3.5 bg-emerald-600 hover:bg-emerald-500 text-white font-bold rounded-2xl text-xs transition-all shadow-lg shadow-emerald-600/30 flex items-center justify-center gap-2 cursor-pointer"

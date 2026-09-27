@@ -146,6 +146,7 @@ function getTrustedClientIp(): string {
 
 /**
  * SEC-04 Fix: Lightweight File-based IP Rate Limiter against Spam & DoS
+ * Standardized with RFC-compatible rate limiting headers
  */
 function enforceRateLimit(string $endpointKey, int $maxRequests = 10, int $windowSeconds = 60): void {
     $ip = getTrustedClientIp();
@@ -174,11 +175,48 @@ function enforceRateLimit(string $endpointKey, int $maxRequests = 10, int $windo
         }
     }
 
-    if (count($data['requests']) >= $maxRequests) {
-        sendResponse(false, null, "تم تجاوز حد الطلبات المسموح به. يرجى الانتظار دقيقة وتكرار المحاولة.", 429);
+    $currentCount = count($data['requests']);
+    $remaining = max(0, $maxRequests - $currentCount);
+
+    header("RateLimit-Limit: " . $maxRequests);
+    header("RateLimit-Remaining: " . $remaining);
+    header("RateLimit-Reset: " . $windowSeconds);
+
+    if ($currentCount >= $maxRequests) {
+        $oldest = min($data['requests']);
+        $retryAfter = max(1, $windowSeconds - ($now - $oldest));
+        header("Retry-After: " . $retryAfter);
+        sendResponse(false, null, "تم تجاوز حد الطلبات المسموح به. يرجى الانتظار {$retryAfter} ثانية وتكرار المحاولة.", 429);
     }
 
     $data['requests'][] = $now;
     @file_put_contents($file, json_encode($data));
+}
+
+/**
+ * PII Protection Helpers for Public Lookups
+ */
+function maskPhoneNumber(?string $phone): string {
+    if (empty($phone)) return '';
+    $clean = preg_replace('/[^0-9]/', '', $phone);
+    if (strlen($clean) >= 6) {
+        return substr($clean, 0, 4) . '****' . substr($clean, -2);
+    }
+    return '0100****00';
+}
+
+function maskEmailAddress(?string $email): string {
+    if (empty($email)) return '';
+    $parts = explode('@', $email);
+    if (count($parts) !== 2) return '***@***.com';
+    return substr($parts[0], 0, 1) . '***@' . $parts[1];
+}
+
+function maskCustomerName(?string $name): string {
+    if (empty($name)) return '';
+    $parts = explode(' ', trim($name));
+    $first = $parts[0] ?? '';
+    $second = isset($parts[1]) ? mb_substr($parts[1], 0, 1, 'UTF-8') . '. ' : '';
+    return $first . ' ' . $second . '***';
 }
 

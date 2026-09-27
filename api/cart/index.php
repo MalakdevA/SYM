@@ -60,6 +60,8 @@ switch ($method) {
         break;
 
     case 'POST':
+        // Rate limiting against cart abuse / DoS
+        enforceRateLimit('cart_actions', 40, 60);
         $input = getJsonInput();
         $sessionId = sanitizeString($input['session_id'] ?? '');
         $productId = sanitizeString($input['product_id'] ?? '');
@@ -146,6 +148,7 @@ switch ($method) {
         break;
 
     case 'PUT':
+        enforceRateLimit('cart_actions', 40, 60);
         $input = getJsonInput();
         $sessionId = sanitizeString($input['session_id'] ?? '');
         $productId = sanitizeString($input['product_id'] ?? '');
@@ -169,6 +172,7 @@ switch ($method) {
         break;
 
     case 'DELETE':
+        enforceRateLimit('cart_actions', 40, 60);
         $sessionId = filter_input(INPUT_GET, 'session_id', FILTER_SANITIZE_SPECIAL_CHARS);
         $productId = filter_input(INPUT_GET, 'product_id', FILTER_SANITIZE_SPECIAL_CHARS);
 

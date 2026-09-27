@@ -140,7 +140,7 @@ export function InstallmentCalculator({ products }: InstallmentCalculatorProps) 
           </div>
 
           <a
-            href={`https://wa.me/201271384149?text=${encodeURIComponent(getWhatsappMsg())}`}
+            href={`https://wa.me/201279881123?text=${encodeURIComponent(getWhatsappMsg())}`}
             target="_blank"
             rel="noreferrer"
             className="w-full py-3.5 rounded-xl bg-[#E60012] hover:bg-red-700 text-white font-black text-xs uppercase tracking-wider transition-all shadow-lg shadow-[#E60012]/30 flex items-center justify-center gap-2"

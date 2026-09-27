@@ -14,7 +14,8 @@ export default function Footer() {
 
   const phone = content.contactPhone || CONTACT_INFO.phone;
   const email = content.contactEmail || CONTACT_INFO.email;
-  const whatsappNumber = phone.replace(/[^0-9]/g, '');
+  const rawDigits = phone.replace(/[^0-9]/g, '');
+  const whatsappNumber = rawDigits.startsWith('0') ? `2${rawDigits}` : rawDigits;
 
   const scrollToTop = () => {
     window.scrollTo({

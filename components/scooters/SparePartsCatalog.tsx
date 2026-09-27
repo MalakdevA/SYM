@@ -20,7 +20,7 @@ import {
 } from 'lucide-react';
 import { useLanguage } from '@/context/LanguageContext';
 
-const WA_NUMBER = '201271384149';
+const WA_NUMBER = '201279881123';
 const ITEMS_PER_PAGE = 24;
 
 interface RawCustomSparePart {

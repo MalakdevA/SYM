@@ -6,7 +6,7 @@ import { Suspense } from 'react';
 
 export const metadata: Metadata = {
   title: 'مركز الدعم الفني وخدمة العملاء والضمان',
-  description: 'مركز خدمة عملاء SYM مصر الرسمي. تواصل معنا عبر الهاتف 01271384149 أو واتساب للاستفسارات والخدمات.',
+  description: 'مركز خدمة عملاء SYM مصر الرسمي. تواصل معنا عبر الهاتف 01279881123 أو واتساب للاستفسارات والخدمات.',
 };
 
 export default function SupportPage() {

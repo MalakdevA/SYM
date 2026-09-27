@@ -6,7 +6,7 @@ import { Suspense } from 'react';
 
 export const metadata: Metadata = {
   title: 'خدمات الصيانة والضمان المعتمد لاسكوتر SYM',
-  description: 'خدمات الصيانة والجدول الدوري وفحص دراجات واسكوترات SYM في مصر. اتصل بنا على 01271384149.',
+  description: 'خدمات الصيانة والجدول الدوري وفحص دراجات واسكوترات SYM في مصر. اتصل بنا على 01279881123.',
 };
 
 export default function ServicePage() {

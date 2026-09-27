@@ -2912,7 +2912,7 @@ export function ScooterDetailView({ product: initialProduct, allProducts }: Scoo
                         </span>
                       </div>
                       <a
-                        href={`https://wa.me/201271384149?text=${whatsappText}`}
+                        href={`https://wa.me/201279881123?text=${whatsappText}`}
                         target="_blank"
                         rel="noreferrer"
                         className="px-4 py-2.5 rounded-xl bg-[#E60012] hover:bg-red-700 text-white font-bold text-xs shadow-sm transition-all cursor-pointer whitespace-nowrap flex items-center gap-2 hover:scale-105 active:scale-95"

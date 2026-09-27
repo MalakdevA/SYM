@@ -130,7 +130,7 @@ const jsonLdSchema = {
       "logo": "https://symegypt.com/SymLogo-S-red.png",
       "image": "https://symegypt.com/sym_hero_banner_new.png",
       "description": "الوكيل الرسمي والموزع المعتمد لسكوترز ودراجات SYM في جمهورية مصر العربية ومراكز الصيانة وقطع الغيار الأصلية.",
-      "telephone": "+201271384149",
+      "telephone": "+201279881123",
       "email": "info@symegypt.com",
       "priceRange": "$$",
       "currenciesAccepted": "EGP",

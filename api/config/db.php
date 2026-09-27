@@ -4,7 +4,10 @@
  * Built for High Performance, Security & Automatic Table Initialization
  */
 
-// SEC-03 Fix: Support Environment Variables with Local Development Fallbacks
+// SEC-03 Fix: Load and parse environment variables
+require_once __DIR__ . '/env.php';
+
+// Support Environment Variables with Local Development Fallbacks
 define('DB_HOST', getenv('DB_HOST') ?: 'localhost');
 define('DB_NAME', getenv('DB_NAME') ?: 'sym_egypt_db');
 define('DB_USER', getenv('DB_USER') ?: 'root');

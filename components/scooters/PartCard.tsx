@@ -13,7 +13,7 @@ interface PartCardProps {
   language: 'ar' | 'en';
 }
 
-const WA_NUMBER = '201271384149';
+const WA_NUMBER = '201279881123';
 
 export function PartCard({ part, categoryId, language }: PartCardProps) {
   const isAr = language === 'ar';

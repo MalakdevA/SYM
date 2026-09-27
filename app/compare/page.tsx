@@ -237,7 +237,7 @@ export default function ComparePage() {
   const whatsappMsg = isAr
     ? `مرحباً شركة SYM مصر، أود الاستفسار عن تفاصيل ومواصفات الموديلات التالية: ${comparedModelNames}`
     : `Hello SYM Egypt, I would like to inquire about specifications for: ${comparedModelNames}`;
-  const whatsappUrl = `https://wa.me/201271384149?text=${encodeURIComponent(whatsappMsg)}`;
+  const whatsappUrl = `https://wa.me/201279881123?text=${encodeURIComponent(whatsappMsg)}`;
 
   // Handle Print Specs Report
   const handlePrintReport = () => {

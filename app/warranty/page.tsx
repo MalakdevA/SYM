@@ -713,7 +713,7 @@ export default function WarrantyPage() {
                   <h3 className="text-lg font-black text-white">{isAr ? 'الإجراءات السريعة' : 'Actions'}</h3>
 
                   <a
-                    href="https://wa.me/201271384149"
+                    href="https://wa.me/201279881123"
                     target="_blank"
                     rel="noreferrer"
                     className="flex items-center justify-between p-4 rounded-2xl bg-zinc-950 border border-zinc-800 hover:border-[#E60012] transition-all group"
@@ -722,7 +722,7 @@ export default function WarrantyPage() {
                       <Phone className="w-5 h-5 text-[#E60012]" />
                       <div>
                         <p className="text-xs font-bold text-white">{t('warranty.customerSupport', 'Customer Support')}</p>
-                        <span className="text-[10px] text-zinc-400">{isAr ? 'اتصال/واتساب 01271384149' : 'Call/WhatsApp 01271384149'}</span>
+                        <span className="text-[10px] text-zinc-400">{isAr ? 'اتصال/واتساب 01279881123' : 'Call/WhatsApp 01279881123'}</span>
                       </div>
                     </div>
                   </a>

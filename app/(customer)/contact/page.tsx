@@ -6,7 +6,7 @@ import { Suspense } from 'react';
 
 export const metadata: Metadata = {
   title: 'تواصل معنا واستفسارات المبيعات والصيانة',
-  description: 'تواصل مباشرة مع خدمة عملاء SYM مصر عبر الهاتف أو واتساب 01271384149 للاستفسارات والخدمات.',
+  description: 'تواصل مباشرة مع خدمة عملاء SYM مصر عبر الهاتف أو واتساب 01279881123 للاستفسارات والخدمات.',
 };
 
 export default function ContactPage() {

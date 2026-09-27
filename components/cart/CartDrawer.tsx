@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { ShoppingBag, X, Plus, Minus, Trash2, ShieldCheck, AlertCircle, Package, Bike } from 'lucide-react';
 import { useCart } from '@/context/CartContext';
 
-const WA_NUMBER = '201271384149';
+const WA_NUMBER = '201279881123';
 
 /* ─────────────────────────────────────────────────────────────────────────────
    Professional WhatsApp order message — groups scooters & spare parts,

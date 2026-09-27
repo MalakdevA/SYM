@@ -61,7 +61,8 @@ switch ($method) {
         break;
 
     case 'POST':
-        // Protected admin or public endpoint to create ticket
+        // Rate limiting against spam service ticket submissions
+        enforceRateLimit('service_ticket_create', 10, 60);
         $input = getJsonInput();
         if (empty($input['customer_name']) || empty($input['scooter_model'])) {
             sendResponse(false, null, "Customer name and Scooter model are required", 400);

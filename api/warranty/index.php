@@ -68,7 +68,8 @@ switch ($method) {
             sendResponse(true, $allWarranties);
         }
 
-        // Public lookup by Chassis VIN
+        // Public lookup by Chassis VIN (Rate Limited to prevent VIN enumeration/scraping)
+        enforceRateLimit('warranty_chassis_lookup', 15, 60);
         $query = "SELECT * FROM warranty_registrations WHERE UPPER(chassis_no) = UPPER(?)";
         $params = [$chassisNo];
 

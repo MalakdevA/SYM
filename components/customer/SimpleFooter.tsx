@@ -36,7 +36,7 @@ export default function SimpleFooter() {
             <ul className="space-y-3">
               <li>
                 <Link
-                  href="/products/scooter/all"
+                  href="/all-models?category=SCOOTER&cc=ALL"
                   className="text-gray-400 hover:text-white transition-colors duration-300 text-sm"
                 >
                   All Scooters
@@ -44,7 +44,7 @@ export default function SimpleFooter() {
               </li>
               <li>
                 <Link
-                  href="/products/scooter/over-125cc"
+                  href="/all-models?category=SCOOTER&cc=MAXI_300"
                   className="text-gray-400 hover:text-white transition-colors duration-300 text-sm"
                 >
                   Over 125cc
@@ -52,15 +52,15 @@ export default function SimpleFooter() {
               </li>
               <li>
                 <Link
-                  href="/products/scooter/125cc"
+                  href="/all-models?category=SCOOTER&cc=MID_150_200"
                   className="text-gray-400 hover:text-white transition-colors duration-300 text-sm"
                 >
-                  125cc
+                  125cc - 200cc
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/products/bike/all"
+                  href="/all-models?category=BIKE&cc=ALL"
                   className="text-gray-400 hover:text-white transition-colors duration-300 text-sm"
                 >
                   All Bikes

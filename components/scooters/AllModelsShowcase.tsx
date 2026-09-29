@@ -10,11 +10,20 @@ import { shouldFlipImageToFaceLeft, getProductImageScale } from '@/lib/utils';
 import { ChevronDown } from 'lucide-react';
 import { useLanguage } from '@/context/LanguageContext';
 
-export function AllModelsShowcase() {
+interface AllModelsShowcaseProps {
+  initialCategory?: 'SCOOTER' | 'BIKE' | 'ALL';
+  initialFilter?: string;
+}
+
+export function AllModelsShowcase({
+  initialCategory,
+  initialFilter,
+}: AllModelsShowcaseProps = {}) {
   const { language, dir } = useLanguage();
   const searchParams = useSearchParams();
-  const categoryParam = searchParams?.get('category')?.toUpperCase() || 'SCOOTER';
-  const ccParam = searchParams?.get('cc')?.toUpperCase() as 'ALL' | 'OVER_125' | '125' | '50' || 'ALL';
+  const categoryParam = searchParams?.get('category')?.toUpperCase() || initialCategory || 'SCOOTER';
+  const rawCc = searchParams?.get('cc')?.toUpperCase() || initialFilter || 'ALL';
+  const ccParam = ['ALL', 'MAXI_300', 'MID_150_200', 'ELECTRIC', 'OVER_200', 'MID_180_200', 'OVER_125', '125', '50'].includes(rawCc) ? rawCc : 'ALL';
 
   const [products, setProducts] = useState<ProductItem[]>(PRODUCTS);
 
@@ -34,11 +43,9 @@ export function AllModelsShowcase() {
   }, []);
 
   const [activeTab, setActiveTab] = useState<'SCOOTER' | 'BIKE' | 'ALL'>(
-    categoryParam === 'BIKE' ? 'BIKE' : 'SCOOTER'
+    categoryParam === 'BIKE' ? 'BIKE' : categoryParam === 'ALL' ? 'ALL' : 'SCOOTER'
   );
-  const [displacementFilter, setDisplacementFilter] = useState<string>(
-    ['ALL', 'MAXI_300', 'MID_150_200', 'ELECTRIC', 'OVER_200', 'MID_180_200', 'OVER_125', '125', '50'].includes(ccParam) ? ccParam : 'ALL'
-  );
+  const [displacementFilter, setDisplacementFilter] = useState<string>(ccParam);
   const [currentPage, setCurrentPage] = useState<number>(1);
   const itemsPerPage = 12;
 

@@ -860,7 +860,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "17211-HMA-000",
       "externalCode2": "17211-HMA-000",
       "model": "cruisym 300",
-      "price": 3788,
+      "price": 3788.0,
       "inStock": true,
       "stock": 17
   },
@@ -1502,7 +1502,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "31120-LM7-000",
       "externalCode2": "31120-LM7-000",
       "model": "cruisym 300",
-      "price": 6250,
+      "price": 6250.0,
       "inStock": true,
       "stock": 5
   },
@@ -2946,7 +2946,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64307-LM7-000-KA",
       "externalCode2": "64307-LM7-000-KA",
       "model": "cruisym 300",
-      "price": 3125,
+      "price": 3125.0,
       "inStock": true,
       "stock": 2
   },
@@ -2958,7 +2958,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64308-LM7-000-KA",
       "externalCode2": "64308-LM7-000-KA",
       "model": "cruisym 300",
-      "price": 3125,
+      "price": 3125.0,
       "inStock": true,
       "stock": 2
   },
@@ -4268,7 +4268,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "11351-L4A-0013-K",
       "externalCode2": "11351-L4A-0013-K",
       "model": "cruisym 400",
-      "price": 1000,
+      "price": 1000.0,
       "inStock": false,
       "image": "/assets/spare-parts/11351-L4A-0013-K.jpg",
       "stock": 0
@@ -4411,7 +4411,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "12312-NKA-0001",
       "externalCode2": "12312-NKA-0001",
       "model": "cruisym 400",
-      "price": 50,
+      "price": 50.0,
       "inStock": true,
       "image": "/assets/spare-parts/12312-NKA-0001.jpg",
       "stock": 10
@@ -5808,7 +5808,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "33100-ZN1-0002",
       "externalCode2": "33100-ZN1-0002",
       "model": "cruisym 400",
-      "price": 18750,
+      "price": 18750.0,
       "inStock": true,
       "image": "/assets/spare-parts/33100-ZN1-0002.jpg",
       "stock": 64
@@ -5821,7 +5821,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "33140-ZN1-0001",
       "externalCode2": "33140-ZN1-0001",
       "model": "cruisym 400",
-      "price": 1500,
+      "price": 1500.0,
       "inStock": true,
       "image": "/assets/spare-parts/33140-ZN1-0001.jpg",
       "stock": 64
@@ -5847,7 +5847,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "33340-ZN1-0001",
       "externalCode2": "33340-ZN1-0001",
       "model": "cruisym 400",
-      "price": 1500,
+      "price": 1500.0,
       "inStock": true,
       "image": "/assets/spare-parts/33340-ZN1-0001.jpg",
       "stock": 64
@@ -6081,7 +6081,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "38650-APN-0000",
       "externalCode2": "38650-APN-0000",
       "model": "cruisym 400",
-      "price": 199,
+      "price": 199.0,
       "inStock": true,
       "image": "/assets/spare-parts/38650-APN-0000.jpg",
       "stock": 70
@@ -6354,7 +6354,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "45120-ZN1-0000",
       "externalCode2": "45120-ZN1-0000",
       "model": "cruisym 400",
-      "price": 199,
+      "price": 199.0,
       "inStock": true,
       "image": "/assets/spare-parts/45120-ZN1-0000.jpg",
       "stock": 20
@@ -6900,7 +6900,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53175-ZN1-0000",
       "externalCode2": "53175-ZN1-0000",
       "model": "cruisym 400",
-      "price": 375,
+      "price": 375.0,
       "inStock": true,
       "image": "/assets/spare-parts/53175-ZN1-0000.jpg",
       "stock": 1
@@ -6913,7 +6913,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53178-ZN1-0000",
       "externalCode2": "53178-ZN1-0000",
       "model": "cruisym 400",
-      "price": 375,
+      "price": 375.0,
       "inStock": false,
       "image": "/assets/spare-parts/53178-ZN1-0000.jpg",
       "stock": 0
@@ -7082,7 +7082,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64301-ZN1-0001-AT",
       "externalCode2": "64301-ZN1-0001-AT",
       "model": "cruisym 400",
-      "price": 1250,
+      "price": 1250.0,
       "inStock": true,
       "image": "/assets/spare-parts/64301-ZN1-0001-AT.jpg",
       "stock": 14
@@ -7095,7 +7095,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64301-ZN1-0001-GL",
       "externalCode2": "64301-ZN1-0001-GL",
       "model": "cruisym 400",
-      "price": 1250,
+      "price": 1250.0,
       "inStock": true,
       "image": "/assets/spare-parts/64301-ZN1-0001-GL.jpg",
       "stock": 5
@@ -7108,7 +7108,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64301-ZN1-0001-WF",
       "externalCode2": "64301-ZN1-0001-WF",
       "model": "cruisym 400",
-      "price": 1250,
+      "price": 1250.0,
       "inStock": true,
       "image": "/assets/spare-parts/64301-ZN1-0001-WF.jpg",
       "stock": 14
@@ -7680,7 +7680,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81131-ZN1-0002",
       "externalCode2": "81131-ZN1-0002",
       "model": "cruisym 400",
-      "price": 1250,
+      "price": 1250.0,
       "inStock": true,
       "image": "/assets/spare-parts/81131-ZN1-0002.jpg",
       "stock": 9
@@ -7745,7 +7745,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81145-ZN1-0002",
       "externalCode2": "81145-ZN1-0002",
       "model": "cruisym 400",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/81144-ZN1-0002.jpg",
       "stock": 10
@@ -7823,7 +7823,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81152-ZN1-0001-AT",
       "externalCode2": "81152-ZN1-0001-AT",
       "model": "cruisym 400",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/81152-ZN1-0001-AT.jpg",
       "stock": 10
@@ -7836,7 +7836,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81152-ZN1-0001-GL",
       "externalCode2": "81152-ZN1-0001-GL",
       "model": "cruisym 400",
-      "price": 625,
+      "price": 625.0,
       "inStock": false,
       "image": "/assets/spare-parts/81152-ZN1-0001-GL.jpg",
       "stock": 0
@@ -7849,7 +7849,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81152-ZN1-0001-WF",
       "externalCode2": "81152-ZN1-0001-WF",
       "model": "cruisym 400",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/81152-ZN1-0001-WF.jpg",
       "stock": 9
@@ -9411,7 +9411,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1750A-AAA-0000",
       "externalCode2": "1750A-AAA-0000",
       "model": "fiddle 2",
-      "price": 1625,
+      "price": 1625.0,
       "inStock": true,
       "image": "/assets/spare-parts/17500-AAA-0006.jpg",
       "stock": 8
@@ -10084,7 +10084,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35150-M9F-A000",
       "externalCode2": "35150-M9F-A000",
       "model": "fiddle 2",
-      "price": 52,
+      "price": 52.0,
       "inStock": false,
       "image": "/assets/spare-parts/35150-M9F-A000.jpg",
       "stock": 0
@@ -10136,7 +10136,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35200-M9Q-0001",
       "externalCode2": "35200-M9Q-0001",
       "model": "fiddle 2",
-      "price": 65,
+      "price": 65.0,
       "inStock": false,
       "image": "/assets/spare-parts/35200-M9Q-0001.jpg",
       "stock": 0
@@ -10149,7 +10149,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35342-M9Q-0000",
       "externalCode2": "35342-M9Q-0000",
       "model": "fiddle 2",
-      "price": 39,
+      "price": 39.0,
       "inStock": false,
       "image": "/assets/spare-parts/35342-M9Q-0000.jpg",
       "stock": 0
@@ -10162,7 +10162,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3585A-35A-A000",
       "externalCode2": "35850-35A-A000",
       "model": "fiddle 2",
-      "price": 359,
+      "price": 359.0,
       "inStock": false,
       "image": "/assets/spare-parts/35850-35A-A000-CN2.jpg",
       "stock": 0
@@ -10200,7 +10200,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "37800-ABA-0001",
       "externalCode2": "37800-ABA-0001",
       "model": "fiddle 2",
-      "price": 200,
+      "price": 200.0,
       "inStock": true,
       "image": "/assets/spare-parts/37800-ABA-0100.jpg",
       "stock": 544
@@ -10407,7 +10407,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-A2E-0005",
       "externalCode2": "50100-A2E-0005",
       "model": "fiddle 2",
-      "price": 7500,
+      "price": 7500.0,
       "inStock": true,
       "stock": 1
   },
@@ -10601,7 +10601,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "52400-ABA-0101",
       "externalCode2": "52400-ABA-0101",
       "model": "fiddle 2",
-      "price": 800,
+      "price": 800.0,
       "inStock": true,
       "image": "/assets/spare-parts/52400-ABA-0101.jpg",
       "stock": 165
@@ -10652,7 +10652,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53178-ATA-0000",
       "externalCode2": "53178-ATA-0000",
       "model": "fiddle 2",
-      "price": 117,
+      "price": 117.0,
       "inStock": true,
       "image": "/assets/spare-parts/53178-ATA-0000.jpg",
       "stock": 823
@@ -11575,7 +11575,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-ALA-A000-AD",
       "externalCode2": "83520-ALA-A000-AD",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-ALA-A000-AD.jpg",
       "stock": 57
@@ -11588,7 +11588,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-ALA-A000-AG",
       "externalCode2": "83520-ALA-A000-AG",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": false,
       "image": "/assets/spare-parts/83520-ALA-A000-AD.jpg",
       "stock": 0
@@ -11601,7 +11601,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-ALA-A000-AI",
       "externalCode2": "83520-ALA-A000-AI",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-ALA-A000-AI.jpg",
       "stock": 15
@@ -11614,7 +11614,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-ALA-A000-BQ",
       "externalCode2": "83520-ALA-A000-BQ",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-ALA-A000-BQ.jpg",
       "stock": 58
@@ -11627,7 +11627,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-ALA-A000-BT",
       "externalCode2": "83520-ALA-A000-BT",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-ALA-A000-BT.jpg",
       "stock": 44
@@ -11640,7 +11640,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-ALA-A000-KG",
       "externalCode2": "83520-ALA-A000-KG",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-ALA-A000-KG.jpg",
       "stock": 57
@@ -11653,7 +11653,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-ALA-A000-RD",
       "externalCode2": "83520-ALA-A000-RD",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-ALA-A000-RD.jpg",
       "stock": 40
@@ -11666,7 +11666,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-ALA-A000-SB",
       "externalCode2": "83520-ALA-A000-SB",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-ALA-A000-SB.jpg",
       "stock": 59
@@ -11679,7 +11679,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-ALA-A000-WA",
       "externalCode2": "83520-ALA-A000-WA",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-ALA-A000-AD.jpg",
       "stock": 39
@@ -11809,7 +11809,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-ALA-A000-AD",
       "externalCode2": "83620-ALA-A000-AD",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-ALA-A000-AD.jpg",
       "stock": 53
@@ -11822,7 +11822,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-ALA-A000-AG",
       "externalCode2": "83620-ALA-A000-AG",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": false,
       "image": "/assets/spare-parts/83620-ALA-A000-AD.jpg",
       "stock": 0
@@ -11835,7 +11835,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-ALA-A000-AI",
       "externalCode2": "83620-ALA-A000-AI",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-ALA-A000-AI.jpg",
       "stock": 8
@@ -11848,7 +11848,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-ALA-A000-BQ",
       "externalCode2": "83620-ALA-A000-BQ",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-ALA-A000-BQ.jpg",
       "stock": 40
@@ -11861,7 +11861,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-ALA-A000-BT",
       "externalCode2": "83620-ALA-A000-BT",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-ALA-A000-BT.jpg",
       "stock": 36
@@ -11874,7 +11874,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-ALA-A000-KG",
       "externalCode2": "83620-ALA-A000-KG",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-ALA-A000-KG.jpg",
       "stock": 105
@@ -11887,7 +11887,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-ALA-A000-RD",
       "externalCode2": "83620-ALA-A000-RD",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-ALA-A000-RD.jpg",
       "stock": 48
@@ -11900,7 +11900,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-ALA-A000-SB",
       "externalCode2": "83620-ALA-A000-SB",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-ALA-A000-SB.jpg",
       "stock": 44
@@ -11913,7 +11913,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-ALA-A000-WA",
       "externalCode2": "83620-ALA-A000-WA",
       "model": "fiddle 2",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-ALA-A000-AD.jpg",
       "stock": 44
@@ -12029,7 +12029,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "90110-H6T-0001",
       "externalCode2": "90110-H6T-0001",
       "model": "fiddle 2",
-      "price": 26,
+      "price": 26.0,
       "inStock": true,
       "image": "/assets/spare-parts/90110-H6T-0001.jpg",
       "stock": 92
@@ -12120,7 +12120,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "91201-HHA-3001",
       "externalCode2": "91201-HHA-3001",
       "model": "fiddle 2",
-      "price": 39,
+      "price": 39.0,
       "inStock": true,
       "image": "/assets/spare-parts/91201-HHA-3001.jpg",
       "stock": 167
@@ -12223,7 +12223,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "95801-08055-07",
       "externalCode2": "95801-08055-07",
       "model": "fiddle 2",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/95801-08055-07.jpg",
       "stock": 141
@@ -12996,7 +12996,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "17507-T3A- 000",
       "externalCode2": "17507-T3A- 000",
       "model": "fiddle 3",
-      "price": 65,
+      "price": 65.0,
       "inStock": true,
       "image": "/assets/spare-parts/17507-T3A-A000.jpg",
       "stock": 60
@@ -13448,7 +13448,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "28300-F6C-0000",
       "externalCode2": "28300-F6C-0000",
       "model": "fiddle 3",
-      "price": 325,
+      "price": 325.0,
       "inStock": false,
       "image": "/assets/spare-parts/28300-F6C-0000.jpg",
       "stock": 0
@@ -13732,7 +13732,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35010-XGA-0001",
       "externalCode2": "35010-XGA-0001",
       "model": "fiddle 3",
-      "price": 800,
+      "price": 800.0,
       "inStock": true,
       "image": "/assets/spare-parts/35010-XGA-0101.jpg",
       "stock": 9
@@ -13783,7 +13783,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35200-M9Q-0001",
       "externalCode2": "35200-M9Q-0001",
       "model": "fiddle 3",
-      "price": 65,
+      "price": 65.0,
       "inStock": false,
       "image": "/assets/spare-parts/35200-M9Q-0001.jpg",
       "stock": 0
@@ -13822,7 +13822,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3585A-35A-A000",
       "externalCode2": "35850-35A-A000",
       "model": "fiddle 3",
-      "price": 359,
+      "price": 359.0,
       "inStock": true,
       "image": "/assets/spare-parts/35850-35A-A000-CN2.jpg",
       "stock": 220
@@ -14287,7 +14287,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5050A-XGA-0000",
       "externalCode2": "50500-XGA-0002",
       "model": "fiddle 3",
-      "price": 650,
+      "price": 650.0,
       "inStock": true,
       "image": "/assets/spare-parts/50500-XGA-0003.jpg",
       "stock": 41
@@ -16823,7 +16823,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "90110-H6T-0001",
       "externalCode2": "90110-H6T-0001",
       "model": "fiddle 3",
-      "price": 26,
+      "price": 26.0,
       "inStock": false,
       "image": "/assets/spare-parts/90110-H6T-0001.jpg",
       "stock": 0
@@ -17081,7 +17081,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1134B-ZEA-0001",
       "externalCode2": "1134B-ZEA-0001",
       "model": "fiddle 4",
-      "price": 175,
+      "price": 175.0,
       "inStock": true,
       "image": "/assets/spare-parts/1134B-ZEA-0001.jpg",
       "stock": 49
@@ -17133,7 +17133,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1565A-F6C-0000",
       "externalCode2": "1565A-F6C-0000",
       "model": "fiddle 4",
-      "price": 26,
+      "price": 26.0,
       "inStock": true,
       "image": "/assets/spare-parts/1565A-F6C-0000.jpg",
       "stock": 50
@@ -17314,7 +17314,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "18000-XE1-0000",
       "externalCode2": "18000-XE1-0000",
       "model": "fiddle 4",
-      "price": 3800,
+      "price": 3800.0,
       "inStock": true,
       "image": "/assets/spare-parts/18000-XE1-0000.jpg",
       "stock": 63
@@ -17405,7 +17405,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "22131-M92-0003",
       "externalCode2": "22131-M92-0003",
       "model": "fiddle 4",
-      "price": 104,
+      "price": 104.0,
       "inStock": true,
       "image": "/assets/spare-parts/22131-M92-0003.jpg",
       "stock": 85
@@ -17600,7 +17600,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "33140-XV1-0001",
       "externalCode2": "33140-XV1-0001",
       "model": "fiddle 4",
-      "price": 575,
+      "price": 575.0,
       "inStock": true,
       "image": "/assets/spare-parts/33140-XV1-0001.jpg",
       "stock": 76
@@ -17743,7 +17743,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "37200-XE1-0000",
       "externalCode2": "37200-XE1-0000",
       "model": "fiddle 4",
-      "price": 3700,
+      "price": 3700.0,
       "inStock": true,
       "image": "/assets/spare-parts/37200-XE1-0000.jpg",
       "stock": 73
@@ -17885,7 +17885,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "45451-N02-0003",
       "externalCode2": "45451-N02-0003",
       "model": "fiddle 4",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/45451-N02-0003.jpg",
       "stock": 12
@@ -17911,7 +17911,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5010Z-XVA-0201",
       "externalCode2": "5010Z-XVA-0201",
       "model": "fiddle 4",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": false,
       "stock": 0
   },
@@ -17949,7 +17949,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50321-HAA-0103",
       "externalCode2": "50321-HAA-0103",
       "model": "fiddle 4",
-      "price": 78,
+      "price": 78.0,
       "inStock": true,
       "image": "/assets/spare-parts/50321-HAA-0103.jpg",
       "stock": 25
@@ -18014,7 +18014,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50360-ZEB-0001",
       "externalCode2": "50360-ZEB-0001",
       "model": "fiddle 4",
-      "price": 117,
+      "price": 117.0,
       "inStock": true,
       "image": "/assets/spare-parts/50360-ZEB-0001.jpg",
       "stock": 14
@@ -18027,7 +18027,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50500-XB5-0001",
       "externalCode2": "50500-XB5-0001",
       "model": "fiddle 4",
-      "price": 800,
+      "price": 800.0,
       "inStock": true,
       "image": "/assets/spare-parts/50500-XB5-0002.jpg",
       "stock": 4
@@ -18053,7 +18053,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50613-XVA-0000",
       "externalCode2": "50613-XVA-0000",
       "model": "fiddle 4",
-      "price": 250,
+      "price": 250.0,
       "inStock": true,
       "image": "/assets/spare-parts/50613-XVA-0000.jpg",
       "stock": 20
@@ -18170,7 +18170,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53140-XVA-0000",
       "externalCode2": "53140-XVA-0000",
       "model": "fiddle 4",
-      "price": 91,
+      "price": 91.0,
       "inStock": true,
       "image": "/assets/spare-parts/53140-XVA-0000.jpg",
       "stock": 28
@@ -18677,7 +18677,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64304-XVA-0000",
       "externalCode2": "64304-XVA-0000",
       "model": "fiddle 4",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/64304-XVA-0000.jpg",
       "stock": 18
@@ -18729,7 +18729,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "77230-EAA-0001",
       "externalCode2": "77230-EAA-0001",
       "model": "fiddle 4",
-      "price": 175,
+      "price": 175.0,
       "inStock": true,
       "image": "/assets/spare-parts/77230-EAA-0001.jpg",
       "stock": 13
@@ -18768,7 +18768,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "80100-XVA-0001",
       "externalCode2": "80100-XVA-0001",
       "model": "fiddle 4",
-      "price": 150,
+      "price": 150.0,
       "inStock": true,
       "image": "/assets/spare-parts/80100-XVA-0001.jpg",
       "stock": 17
@@ -18781,7 +18781,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "80101-XVA-0000",
       "externalCode2": "80101-XVA-0000",
       "model": "fiddle 4",
-      "price": 150,
+      "price": 150.0,
       "inStock": true,
       "image": "/assets/spare-parts/80101-XVA-0000.jpg",
       "stock": 29
@@ -18807,7 +18807,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "80109-XB1-0101",
       "externalCode2": "80109-XB1-0101",
       "model": "fiddle 4",
-      "price": 39,
+      "price": 39.0,
       "inStock": true,
       "image": "/assets/spare-parts/80109-XB1-0101.jpg",
       "stock": 10
@@ -18833,7 +18833,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "80152-XVA-0000",
       "externalCode2": "80152-XVA-0000",
       "model": "fiddle 4",
-      "price": 130,
+      "price": 130.0,
       "inStock": true,
       "image": "/assets/spare-parts/80152-XVA-0000.jpg",
       "stock": 18
@@ -18989,7 +18989,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81135-XVA-0002",
       "externalCode2": "81135-XVA-0002",
       "model": "fiddle 4",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/81135-XVA-0002.jpg",
       "stock": 10
@@ -19015,7 +19015,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81200-XVA-0000",
       "externalCode2": "81200-XVA-0000",
       "model": "fiddle 4",
-      "price": 1250,
+      "price": 1250.0,
       "inStock": true,
       "image": "/assets/spare-parts/81201-XVA-0000.jpg",
       "stock": 66
@@ -19053,7 +19053,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81251-XVA-0000",
       "externalCode2": "81251-XVA-0000",
       "model": "fiddle 4",
-      "price": 104,
+      "price": 104.0,
       "inStock": true,
       "image": "/assets/spare-parts/81251-XVA-0000.jpg",
       "stock": 24
@@ -19625,7 +19625,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "90085-XN1-0001",
       "externalCode2": "90085-XN1-0001",
       "model": "fiddle 4",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/90085-XN1-0001.jpg",
       "stock": 110
@@ -19741,7 +19741,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "98200-31000",
       "externalCode2": "98200-31000",
       "model": "fiddle 4",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/98200-31000.jpg",
       "stock": 59
@@ -19754,7 +19754,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "98200-31500",
       "externalCode2": "98200-31500",
       "model": "fiddle 4",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/98200-31500.jpg",
       "stock": 59
@@ -19767,7 +19767,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "98200-32000",
       "externalCode2": "98200-32000",
       "model": "fiddle 4",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/98200-32000.jpg",
       "stock": 60
@@ -20554,9 +20554,9 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode2": "14711-F6A-0000",
       "model": "get4",
       "price": 207.24,
-      "inStock": true,
+      "inStock": false,
       "image": "/assets/spare-parts/14711-F6A-0000.jpg",
-      "stock": 664
+      "stock": 0
   },
   {
       "id": "sp-1602",
@@ -20567,9 +20567,9 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode2": "14721-F6A-0000",
       "model": "get4",
       "price": 403.6,
-      "inStock": true,
+      "inStock": false,
       "image": "/assets/spare-parts/14721-F6A-0000.jpg",
-      "stock": 1012
+      "stock": 0
   },
   {
       "id": "sp-1603",
@@ -21173,7 +21173,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "28300-F6C-0000",
       "externalCode2": "28300-F6C-0000",
       "model": "get4",
-      "price": 325,
+      "price": 325.0,
       "inStock": false,
       "image": "/assets/spare-parts/28300-F6C-0000.jpg",
       "stock": 0
@@ -21199,7 +21199,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3051A-T7A-A000",
       "externalCode2": "3051A-T7A-A000",
       "model": "get4",
-      "price": 275,
+      "price": 275.0,
       "inStock": true,
       "image": "/assets/spare-parts/3051A-T7A-0100.jpg",
       "stock": 181
@@ -21394,7 +21394,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35150-M9F-A000",
       "externalCode2": "35150-M9F-A000",
       "model": "get4",
-      "price": 52,
+      "price": 52.0,
       "inStock": false,
       "image": "/assets/spare-parts/35150-M9F-A000.jpg",
       "stock": 0
@@ -21445,7 +21445,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35200-M9Q-0001",
       "externalCode2": "35200-M9Q-0001",
       "model": "get4",
-      "price": 65,
+      "price": 65.0,
       "inStock": false,
       "image": "/assets/spare-parts/35200-M9Q-0001.jpg",
       "stock": 0
@@ -21471,7 +21471,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35342-M9Q-0000",
       "externalCode2": "35342-M9Q-0000",
       "model": "get4",
-      "price": 39,
+      "price": 39.0,
       "inStock": false,
       "image": "/assets/spare-parts/35342-M9Q-0000.jpg",
       "stock": 0
@@ -21497,7 +21497,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3585A-35A-A000",
       "externalCode2": "35850-35A-A000",
       "model": "get4",
-      "price": 359,
+      "price": 359.0,
       "inStock": false,
       "image": "/assets/spare-parts/35850-35A-A000-CN2.jpg",
       "stock": 0
@@ -21536,7 +21536,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "37800-ABA-0001",
       "externalCode2": "37800-ABA-0001",
       "model": "get4",
-      "price": 200,
+      "price": 200.0,
       "inStock": false,
       "image": "/assets/spare-parts/37800-ABA-0100.jpg",
       "stock": 0
@@ -21894,7 +21894,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "45126-ATA-0001",
       "externalCode2": "45126-ATA-0001",
       "model": "get4",
-      "price": 372,
+      "price": 372.0,
       "inStock": true,
       "image": "/assets/spare-parts/45126-ATA-0001.jpg",
       "stock": 93
@@ -21946,7 +21946,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-ank-0003",
       "externalCode2": "50100-ank-0003",
       "model": "get4",
-      "price": 7500,
+      "price": 7500.0,
       "inStock": true,
       "image": "/assets/spare-parts/50100-ANK-0003.jpg",
       "stock": 5
@@ -22063,7 +22063,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50503-F6B-000014",
       "externalCode2": "50503-F6B-0000",
       "model": "get4",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/50503-F6B-0000.jpg",
       "stock": 80
@@ -22179,7 +22179,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "52400-ABA-0101",
       "externalCode2": "52400-ABA-0101-R",
       "model": "get4",
-      "price": 800,
+      "price": 800.0,
       "inStock": true,
       "image": "/assets/spare-parts/52400-ABA-0101.jpg",
       "stock": 100
@@ -22205,7 +22205,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53140-S1F-H001",
       "externalCode2": "53140-S1F-H001",
       "model": "get4",
-      "price": 78,
+      "price": 78.0,
       "inStock": true,
       "image": "/assets/spare-parts/53140-S1F-H001.jpg",
       "stock": 100
@@ -22218,7 +22218,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53166-S1F-H001",
       "externalCode2": "53166-S1F-H001",
       "model": "get4",
-      "price": 52,
+      "price": 52.0,
       "inStock": true,
       "image": "/assets/spare-parts/53166-S1F-H001.jpg",
       "stock": 100
@@ -22270,7 +22270,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53178-ATA-0000",
       "externalCode2": "53178-ATA-0000",
       "model": "get4",
-      "price": 117,
+      "price": 117.0,
       "inStock": true,
       "image": "/assets/spare-parts/53178-ATA-0000.jpg",
       "stock": 100
@@ -22283,7 +22283,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53200-AAA-0003",
       "externalCode2": "53200-AAA-0003",
       "model": "get4",
-      "price": 1400,
+      "price": 1400.0,
       "inStock": true,
       "image": "/assets/spare-parts/53200-AAA-0005.jpg",
       "stock": 179
@@ -23599,7 +23599,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "32100-AJB-000",
       "externalCode2": "32100-AJB-000",
       "model": "get4",
-      "price": 1125,
+      "price": 1125.0,
       "inStock": true,
       "stock": 5
   },
@@ -24232,7 +24232,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "17211-HMA-000",
       "externalCode2": "17211-HMA-000",
       "model": "GTS 300",
-      "price": 3788,
+      "price": 3788.0,
       "inStock": false,
       "stock": 0
   },
@@ -24293,7 +24293,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "17581-HMA-000",
       "externalCode2": "17581-HMA-000",
       "model": "GTS 300",
-      "price": 750,
+      "price": 750.0,
       "inStock": true,
       "image": "/assets/spare-parts/17581-HMA-0002.jpg",
       "stock": 10
@@ -24539,7 +24539,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1T011406013-MAPRO",
       "externalCode2": "42710-L3D-000",
       "model": "GTS 300",
-      "price": 6542,
+      "price": 6542.0,
       "inStock": false,
       "stock": 0
   },
@@ -25616,7 +25616,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50315-L3A-900",
       "externalCode2": "50315-L3A-900",
       "model": "GTS 300",
-      "price": 5000,
+      "price": 5000.0,
       "inStock": true,
       "stock": 2
   },
@@ -27364,7 +27364,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "2213-f10-000",
       "externalCode2": "2213-f10-000",
       "model": "hm",
-      "price": 375,
+      "price": 375.0,
       "inStock": false,
       "stock": 0
   },
@@ -29806,7 +29806,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "44620-H3A-0000",
       "externalCode2": "44620-H3A-0000",
       "model": "HUSKY",
-      "price": 50,
+      "price": 50.0,
       "inStock": true,
       "image": "/assets/spare-parts/44620-H3A-0000.jpg",
       "stock": 125
@@ -29988,7 +29988,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-ZH1-0002",
       "externalCode2": "50100-ZH1-0002",
       "model": "HUSKY",
-      "price": 12500,
+      "price": 12500.0,
       "inStock": true,
       "image": "/assets/spare-parts/50100-ZH1-0002.jpg",
       "stock": 5
@@ -32185,7 +32185,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "91202-ZGA-0000",
       "externalCode2": "91202-ZGA-0000",
       "model": "HUSKY",
-      "price": 150,
+      "price": 150.0,
       "inStock": true,
       "image": "/assets/spare-parts/91202-ZGA-0000.jpg",
       "stock": 50
@@ -32756,7 +32756,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "price": 610.83,
       "inStock": true,
       "image": "/assets/spare-parts/1865A-A61-0003.jpg",
-      "stock": 12
+      "stock": 138
   },
   {
       "id": "sp-2561",
@@ -32856,7 +32856,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "28300-F6C-0000",
       "externalCode2": "28300-F6C-0000",
       "model": "JET 14",
-      "price": 325,
+      "price": 325.0,
       "inStock": true,
       "image": "/assets/spare-parts/28300-F6C-0000.jpg",
       "stock": 60
@@ -33025,7 +33025,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "33701-X8A-0001",
       "externalCode2": "33701-X8A-0001",
       "model": "JET 14",
-      "price": 750,
+      "price": 750.0,
       "inStock": true,
       "image": "/assets/spare-parts/33700-X8A-0002.jpg",
       "stock": 67
@@ -33129,7 +33129,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35342-M9Q-0000",
       "externalCode2": "35342-M9Q-0000",
       "model": "JET 14",
-      "price": 39,
+      "price": 39.0,
       "inStock": true,
       "image": "/assets/spare-parts/35342-M9Q-0000.jpg",
       "stock": 60
@@ -33333,7 +33333,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "44315-N7B-E100",
       "externalCode2": "44315-N7B-E10014",
       "model": "JET 14",
-      "price": 13,
+      "price": 13.0,
       "inStock": false,
       "image": "/assets/spare-parts/44315-N7B-E100.jpg",
       "stock": 0
@@ -33548,7 +33548,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-X8A-0002",
       "externalCode2": "50100-X8A-0002",
       "model": "JET 14",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": true,
       "stock": 5
   },
@@ -33637,7 +33637,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50503-F6B-000014",
       "externalCode2": "50503-F6B-0000",
       "model": "JET 14",
-      "price": 13,
+      "price": 13.0,
       "inStock": false,
       "image": "/assets/spare-parts/50503-F6B-0000.jpg",
       "stock": 0
@@ -33741,7 +33741,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "51400-X8A-0002-K-C",
       "externalCode2": "51400-X8A-0002-K-C",
       "model": "JET 14",
-      "price": 1450,
+      "price": 1450.0,
       "inStock": true,
       "image": "/assets/spare-parts/51400-X8A-0100-K-C.jpg",
       "stock": 10
@@ -33754,7 +33754,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "51500-X8A-0002-K-C",
       "externalCode2": "51500-X8A-0002-K-C",
       "model": "JET 14",
-      "price": 1450,
+      "price": 1450.0,
       "inStock": true,
       "image": "/assets/spare-parts/51500-X8A-0100-K-C.jpg",
       "stock": 30
@@ -34040,7 +34040,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64301-X8A-0002-kh",
       "externalCode2": "64301-X8A-0002-kh",
       "model": "JET 14",
-      "price": 1315,
+      "price": 1315.0,
       "inStock": false,
       "image": "/assets/spare-parts/64301-X8A-0002-AJ.jpg",
       "stock": 0
@@ -34144,7 +34144,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64302-X8A-0001-kh",
       "externalCode2": "64302-X8A-0001-kh",
       "model": "JET 14",
-      "price": 1315,
+      "price": 1315.0,
       "inStock": false,
       "image": "/assets/spare-parts/64302-X8A-0001-AJ.jpg",
       "stock": 0
@@ -34248,7 +34248,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "6710E-X8A-0000",
       "externalCode2": "6710E-X8A-0000",
       "model": "JET 14",
-      "price": 625,
+      "price": 625.0,
       "inStock": true,
       "image": "/assets/spare-parts/67100-X8A-0000.jpg",
       "stock": 308
@@ -34534,7 +34534,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8150a-x8a-0000",
       "externalCode2": "8150a-x8a-0000",
       "model": "JET 14",
-      "price": 3750,
+      "price": 3750.0,
       "inStock": false,
       "stock": 0
   },
@@ -34611,7 +34611,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83500-X8A-0001-kh",
       "externalCode2": "83500-X8A-0001-kh",
       "model": "JET 14",
-      "price": 1312,
+      "price": 1312.0,
       "inStock": true,
       "image": "/assets/spare-parts/83500-X8A-0001-AJ.jpg",
       "stock": 1
@@ -34754,7 +34754,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83600-X8A-0001-kh",
       "externalCode2": "83600-X8A-0001-kh",
       "model": "JET 14",
-      "price": 1312,
+      "price": 1312.0,
       "inStock": true,
       "image": "/assets/spare-parts/83600-X8A-0001-AJ.jpg",
       "stock": 1
@@ -34897,7 +34897,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83650-X8A-0000-kh",
       "externalCode2": "83650-X8A-0000-kh",
       "model": "JET 14",
-      "price": 406,
+      "price": 406.0,
       "inStock": true,
       "image": "/assets/spare-parts/83650-X8A-0000-AJ.jpg",
       "stock": 1
@@ -34949,7 +34949,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "87131-X8A-0000",
       "externalCode2": "87131-X8A-0000",
       "model": "JET 14",
-      "price": 52,
+      "price": 52.0,
       "inStock": true,
       "image": "/assets/spare-parts/87131-X8A-0000-T2.jpg",
       "stock": 130
@@ -34962,7 +34962,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "87132-X8A-0000",
       "externalCode2": "87132-X8A-0000",
       "model": "JET 14",
-      "price": 52,
+      "price": 52.0,
       "inStock": true,
       "image": "/assets/spare-parts/87132-X8A-0000-T1.jpg",
       "stock": 129
@@ -34988,7 +34988,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "88110-XPA-0003-K",
       "externalCode2": "88110-XPA-0003-K",
       "model": "JET 14",
-      "price": 275,
+      "price": 275.0,
       "inStock": true,
       "image": "/assets/spare-parts/88110-XPA-0004-K.jpg",
       "stock": 10
@@ -35001,7 +35001,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "88120-XPA-0003-K",
       "externalCode2": "88120-XPA-0003-K",
       "model": "JET 14",
-      "price": 275,
+      "price": 275.0,
       "inStock": true,
       "image": "/assets/spare-parts/88120-XPA-0003-K.jpg",
       "stock": 10
@@ -35144,7 +35144,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81300-X8A-000",
       "externalCode2": "81300-X8A-000",
       "model": "JET 14",
-      "price": 625,
+      "price": 625.0,
       "inStock": false,
       "stock": 0
   },
@@ -35169,7 +35169,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1134A-X9E-0000",
       "externalCode2": "1134A-X9E-0000",
       "model": "jET 14 Ai",
-      "price": 3271,
+      "price": 3271.0,
       "inStock": true,
       "stock": 12
   },
@@ -35296,7 +35296,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1800A-X9E-0001-K-C",
       "externalCode2": "1800A-XG6-0001-K-C",
       "model": "jET 14 Ai",
-      "price": 3975,
+      "price": 3975.0,
       "inStock": true,
       "image": "/assets/spare-parts/18000-X9E-0000-K.jpg",
       "stock": 26
@@ -35412,7 +35412,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "31600-MA1-0000",
       "externalCode2": "31600-MA1-0000",
       "model": "jET 14 Ai",
-      "price": 850,
+      "price": 850.0,
       "inStock": true,
       "image": "/assets/spare-parts/31600-MA1-0000.jpg",
       "stock": 330
@@ -37434,7 +37434,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-XZ1-0000",
       "externalCode2": "50100-XZ1-0000",
       "model": "JET 14 EVO",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": true,
       "image": "/assets/spare-parts/50100-XZ1-0004.jpg",
       "stock": 5
@@ -38824,7 +38824,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "94520-32000",
       "externalCode2": "94520-32000",
       "model": "JET 14 EVO",
-      "price": 65,
+      "price": 65.0,
       "inStock": true,
       "image": "/assets/spare-parts/94520-32000.jpg",
       "stock": 10
@@ -38862,7 +38862,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1120A-X9C-0000",
       "externalCode2": "1120A-X9C-0000",
       "model": "jet X",
-      "price": 4745,
+      "price": 4745.0,
       "inStock": true,
       "stock": 4
   },
@@ -39619,7 +39619,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "37802-M9Q-0000",
       "externalCode2": "37802-M9Q-0000",
       "model": "jet X",
-      "price": 26,
+      "price": 26.0,
       "inStock": true,
       "image": "/assets/spare-parts/37802-M9Q-0000.jpg",
       "stock": 60
@@ -39927,7 +39927,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4550Z-X1M-0000",
       "externalCode2": "4550Z-X1M-0000",
       "model": "jet X",
-      "price": 20775,
+      "price": 20775.0,
       "inStock": true,
       "stock": 22
   },
@@ -39965,7 +39965,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-XN1-0004",
       "externalCode2": "50100-XN1-0004",
       "model": "jet X",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": true,
       "image": "/assets/spare-parts/50100-XN1-0005.jpg",
       "stock": 7
@@ -40407,7 +40407,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53207-XN1-0000",
       "externalCode2": "53207-XN1-0000",
       "model": "jet X",
-      "price": 150,
+      "price": 150.0,
       "inStock": true,
       "image": "/assets/spare-parts/53207-XN1-0000-SC.jpg",
       "stock": 13
@@ -41421,7 +41421,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83500-XN1-0000-AE",
       "externalCode2": "83500-XN1-0000-AE",
       "model": "jet X",
-      "price": 677,
+      "price": 677.0,
       "inStock": true,
       "image": "/assets/spare-parts/83500-XN1-0000-AE.jpg",
       "stock": 107
@@ -41615,7 +41615,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83600-XN1-0000-AE",
       "externalCode2": "83600-XN1-0000-AE",
       "model": "jet X",
-      "price": 677,
+      "price": 677.0,
       "inStock": true,
       "image": "/assets/spare-parts/83600-XN1-0000-AE.jpg",
       "stock": 138
@@ -42094,7 +42094,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "06414-XTA-0000",
       "externalCode2": "06414-XTA-0000",
       "model": "JOYMAX Z",
-      "price": 1298,
+      "price": 1298.0,
       "inStock": true,
       "image": "/assets/spare-parts/06414-XTA-0000.jpg",
       "stock": 18
@@ -42237,7 +42237,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "11346-HMA-0000",
       "externalCode2": "11346-HMA-0000",
       "model": "JOYMAX Z",
-      "price": 50,
+      "price": 50.0,
       "inStock": true,
       "image": "/assets/spare-parts/11346-HMA-0000.jpg",
       "stock": 10
@@ -42393,7 +42393,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "12312-NKA-0000",
       "externalCode2": "12312-NKA-0000",
       "model": "JOYMAX Z",
-      "price": 50,
+      "price": 50.0,
       "inStock": true,
       "image": "/assets/spare-parts/12313-NKA-0000.jpg",
       "stock": 10
@@ -43233,7 +43233,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1910A-XTA-0001",
       "externalCode2": "1910A-XTA-0001",
       "model": "JOYMAX Z",
-      "price": 199,
+      "price": 199.0,
       "inStock": true,
       "image": "/assets/spare-parts/1910A-XTA-0001.jpg",
       "stock": 9
@@ -44522,7 +44522,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5010Z-XTF-0003",
       "externalCode2": "5010Z-XTF-0003",
       "model": "JOYMAX Z",
-      "price": 12500,
+      "price": 12500.0,
       "inStock": true,
       "image": "/assets/spare-parts/5010Z-XTF-0003.jpg",
       "stock": 1
@@ -45360,7 +45360,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64310-XTF-0001",
       "externalCode2": "64310-L9M-0008-TW",
       "model": "JOYMAX Z",
-      "price": 500,
+      "price": 500.0,
       "inStock": false,
       "image": "/assets/spare-parts/64310-XTF-0001.jpg",
       "stock": 0
@@ -45425,7 +45425,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64315-XTF-0000",
       "externalCode2": "64315-XTF-0000",
       "model": "JOYMAX Z",
-      "price": 625,
+      "price": 625.0,
       "inStock": false,
       "image": "/assets/spare-parts/64315-XTF-0000.jpg",
       "stock": 0
@@ -45451,7 +45451,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64316-XTF-0000",
       "externalCode2": "64316-XTF-0000",
       "model": "JOYMAX Z",
-      "price": 625,
+      "price": 625.0,
       "inStock": false,
       "image": "/assets/spare-parts/64316-XTF-0000.jpg",
       "stock": 0
@@ -45919,7 +45919,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83510-XTF-0000-bp",
       "externalCode2": "83510-XTF-0000-bp",
       "model": "JOYMAX Z",
-      "price": 1000,
+      "price": 1000.0,
       "inStock": false,
       "image": "/assets/spare-parts/83510-XTF-0002-AR.jpg",
       "stock": 0
@@ -45932,7 +45932,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83510-XTF-0000-WA",
       "externalCode2": "83510-XTF-0000-WA",
       "model": "JOYMAX Z",
-      "price": 1000,
+      "price": 1000.0,
       "inStock": false,
       "image": "/assets/spare-parts/83510-XTF-0002-AR.jpg",
       "stock": 0
@@ -46009,7 +46009,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83610-XTF-0000-bp",
       "externalCode2": "83610-XTF-0000-bp",
       "model": "JOYMAX Z",
-      "price": 1000,
+      "price": 1000.0,
       "inStock": false,
       "image": "/assets/spare-parts/83610-XTF-0002-AR.jpg",
       "stock": 0
@@ -46022,7 +46022,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83610-XTF-0000-WA",
       "externalCode2": "83610-XTF-0000-WA",
       "model": "JOYMAX Z",
-      "price": 1000,
+      "price": 1000.0,
       "inStock": false,
       "image": "/assets/spare-parts/83610-XTF-0002-AR.jpg",
       "stock": 0
@@ -46203,7 +46203,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "90423-KJ9-0001",
       "externalCode2": "90423-KJ9-0001",
       "model": "JOYMAX Z",
-      "price": 36,
+      "price": 36.0,
       "inStock": true,
       "image": "/assets/spare-parts/90423-KJ9-0001.jpg",
       "stock": 84
@@ -46528,7 +46528,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83510-XTF-0000-AR",
       "externalCode2": "83510-XTF-0000-AR",
       "model": "JOYMAX Z",
-      "price": 1000,
+      "price": 1000.0,
       "inStock": false,
       "image": "/assets/spare-parts/83510-XTF-0002-AR.jpg",
       "stock": 0
@@ -46541,7 +46541,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83610-XTF-0000-AR",
       "externalCode2": "83610-XTF-0000-AR",
       "model": "JOYMAX Z",
-      "price": 1000,
+      "price": 1000.0,
       "inStock": false,
       "image": "/assets/spare-parts/83610-XTF-0002-AR.jpg",
       "stock": 0
@@ -47928,7 +47928,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "23411-H9B-010",
       "externalCode2": "23411-H9B-010",
       "model": "JOYRAID",
-      "price": 1878,
+      "price": 1878.0,
       "inStock": true,
       "stock": 28
   },
@@ -48231,7 +48231,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "34906-M70-000",
       "externalCode2": "34906-M70-000",
       "model": "JOYRAID",
-      "price": 150,
+      "price": 150.0,
       "inStock": true,
       "image": "/assets/spare-parts/34908-M70-0000.jpg",
       "stock": 59
@@ -49443,7 +49443,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "64304-LVA-000",
       "externalCode2": "64304-LVA-000",
       "model": "JOYRAID",
-      "price": 677,
+      "price": 677.0,
       "inStock": true,
       "stock": 117
   },
@@ -49623,7 +49623,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "77100-LVA-000",
       "externalCode2": "77100-LVA-000",
       "model": "JOYRAID",
-      "price": 5922,
+      "price": 5922.0,
       "inStock": true,
       "stock": 102
   },
@@ -50461,7 +50461,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "91002-H9A-000",
       "externalCode2": "91002-H9A-000",
       "model": "JOYRAID",
-      "price": 1241,
+      "price": 1241.0,
       "inStock": true,
       "stock": 15
   },
@@ -51030,7 +51030,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "90423-KJ9-000",
       "externalCode2": "90423-KJ9-000",
       "model": "max 400",
-      "price": 36,
+      "price": 36.0,
       "inStock": true,
       "image": "/assets/spare-parts/90423-KJ9-0001.jpg",
       "stock": 25
@@ -53596,7 +53596,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "17680-XMK-0000",
       "externalCode2": "17680-XMK-0000",
       "model": "NEW-ST",
-      "price": 26,
+      "price": 26.0,
       "inStock": true,
       "image": "/assets/spare-parts/17680-XMK-0000.jpg",
       "stock": 85
@@ -53739,7 +53739,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1963A-XWA-0003",
       "externalCode2": "1963A-XWA-0003",
       "model": "NEW-ST",
-      "price": 130,
+      "price": 130.0,
       "inStock": true,
       "image": "/assets/spare-parts/1963A-XWA-0003.jpg",
       "stock": 160
@@ -53752,7 +53752,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "21200-A6A-0004",
       "externalCode2": "21200-A6A-0004",
       "model": "NEW-ST",
-      "price": 650,
+      "price": 650.0,
       "inStock": true,
       "image": "/assets/spare-parts/21200-A6A-0004.jpg",
       "stock": 82
@@ -53765,7 +53765,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "21395-Z2D-0000",
       "externalCode2": "21395-Z2D-0000",
       "model": "NEW-ST",
-      "price": 65,
+      "price": 65.0,
       "inStock": true,
       "image": "/assets/spare-parts/21395-Z2D-0000.jpg",
       "stock": 152
@@ -53791,7 +53791,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "2211A-XY1-0000",
       "externalCode2": "2211A-XY1-0000",
       "model": "NEW-ST",
-      "price": 675,
+      "price": 675.0,
       "inStock": true,
       "image": "/assets/spare-parts/2211A-XY1-0000.jpg",
       "stock": 87
@@ -53934,7 +53934,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "32415-XRE-0000",
       "externalCode2": "32415-XRE-0000",
       "model": "NEW-ST",
-      "price": 150,
+      "price": 150.0,
       "inStock": true,
       "image": "/assets/spare-parts/32415-XRE-0000.jpg",
       "stock": 70
@@ -54012,7 +54012,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35150-XRE-9000",
       "externalCode2": "35150-XRE-9000",
       "model": "NEW-ST",
-      "price": 575,
+      "price": 575.0,
       "inStock": true,
       "image": "/assets/spare-parts/35150-XRE-9001.jpg",
       "stock": 77
@@ -54090,7 +54090,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "42601-XRE-0001",
       "externalCode2": "42601-XRE-0001",
       "model": "NEW-ST",
-      "price": 2850,
+      "price": 2850.0,
       "inStock": true,
       "image": "/assets/spare-parts/42601-XRE-0001-K.jpg",
       "stock": 83
@@ -54129,7 +54129,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "44600-XRE-0000",
       "externalCode2": "44600-XRE-0000",
       "model": "NEW-ST",
-      "price": 3350,
+      "price": 3350.0,
       "inStock": true,
       "image": "/assets/spare-parts/44600-XRE-0000-K.jpg",
       "stock": 26
@@ -54168,7 +54168,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "45105-APA-0000",
       "externalCode2": "45105-APA-0000",
       "model": "NEW-ST",
-      "price": 65,
+      "price": 65.0,
       "inStock": true,
       "image": "/assets/spare-parts/45105-APA-0000.jpg",
       "stock": 177
@@ -54181,7 +54181,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "45106-APA-0000",
       "externalCode2": "45106-APA-0000",
       "model": "NEW-ST",
-      "price": 65,
+      "price": 65.0,
       "inStock": true,
       "image": "/assets/spare-parts/45106-APA-0000.jpg",
       "stock": 177
@@ -54220,7 +54220,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "45517-VN3-0100",
       "externalCode2": "45517-VN3-0100",
       "model": "NEW-ST",
-      "price": 26,
+      "price": 26.0,
       "inStock": true,
       "image": "/assets/spare-parts/45517-VN3-0100.jpg",
       "stock": 33
@@ -54246,7 +54246,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50315-XRE-0000",
       "externalCode2": "50315-XRE-0000",
       "model": "NEW-ST",
-      "price": 91,
+      "price": 91.0,
       "inStock": true,
       "image": "/assets/spare-parts/50315-XRE-0000.jpg",
       "stock": 25
@@ -54259,7 +54259,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50324-XRE-0001",
       "externalCode2": "50324-XRE-0001",
       "model": "NEW-ST",
-      "price": 52,
+      "price": 52.0,
       "inStock": true,
       "image": "/assets/spare-parts/50324-XRE-0001.jpg",
       "stock": 25
@@ -54311,7 +54311,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50360-XMK-0001",
       "externalCode2": "50360-XMK-0001",
       "model": "NEW-ST",
-      "price": 52,
+      "price": 52.0,
       "inStock": true,
       "image": "/assets/spare-parts/50360-XMK-0001.jpg",
       "stock": 27
@@ -54415,7 +54415,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5071A-XRE-0002",
       "externalCode2": "5071A-XRE-0002",
       "model": "NEW-ST",
-      "price": 425,
+      "price": 425.0,
       "inStock": true,
       "image": "/assets/spare-parts/5071A-XRE-0002.jpg",
       "stock": 25
@@ -54428,7 +54428,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5071B-XRE-0002",
       "externalCode2": "5071B-XRE-0002",
       "model": "NEW-ST",
-      "price": 425,
+      "price": 425.0,
       "inStock": true,
       "image": "/assets/spare-parts/5071B-XRE-0002.jpg",
       "stock": 29
@@ -54441,7 +54441,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "51325-XMK-0001",
       "externalCode2": "51325-XMK-0001",
       "model": "NEW-ST",
-      "price": 65,
+      "price": 65.0,
       "inStock": true,
       "image": "/assets/spare-parts/51325-XMK-0001.jpg",
       "stock": 25
@@ -54454,7 +54454,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "51400-XRE-0002-K",
       "externalCode2": "51400-XRE-0002-K",
       "model": "NEW-ST",
-      "price": 1500,
+      "price": 1500.0,
       "inStock": true,
       "image": "/assets/spare-parts/51400-XRE-0002-K.jpg",
       "stock": 54
@@ -54493,7 +54493,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "51500-XRE-0002-K",
       "externalCode2": "51500-XRE-0002-K",
       "model": "NEW-ST",
-      "price": 1500,
+      "price": 1500.0,
       "inStock": true,
       "image": "/assets/spare-parts/51500-XRE-0002-K.jpg",
       "stock": 34
@@ -54558,7 +54558,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53140-XRE-0000",
       "externalCode2": "53140-XRE-0000",
       "model": "NEW-ST",
-      "price": 91,
+      "price": 91.0,
       "inStock": true,
       "image": "/assets/spare-parts/53140-XRE-0000.jpg",
       "stock": 20
@@ -55182,7 +55182,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "77245-XRE-0003",
       "externalCode2": "77245-XRE-0003",
       "model": "NEW-ST",
-      "price": 225,
+      "price": 225.0,
       "inStock": true,
       "image": "/assets/spare-parts/77245-XRE-0003.jpg",
       "stock": 23
@@ -55195,7 +55195,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "80100-XRE-0000",
       "externalCode2": "80100-XRE-0000",
       "model": "NEW-ST",
-      "price": 275,
+      "price": 275.0,
       "inStock": true,
       "image": "/assets/spare-parts/80100-XRE-0000.jpg",
       "stock": 18
@@ -55234,7 +55234,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "80105-XRE-0000",
       "externalCode2": "80105-XRE-0000",
       "model": "NEW-ST",
-      "price": 150,
+      "price": 150.0,
       "inStock": true,
       "image": "/assets/spare-parts/80105-XRE-0000.jpg",
       "stock": 27
@@ -55260,7 +55260,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "80152-XRE-0000",
       "externalCode2": "80152-XRE-0000",
       "model": "NEW-ST",
-      "price": 78,
+      "price": 78.0,
       "inStock": true,
       "image": "/assets/spare-parts/80152-XRE-0000.jpg",
       "stock": 17
@@ -55910,7 +55910,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "91051-H9A-0000",
       "externalCode2": "91051-H9A-0000",
       "model": "NEW-ST",
-      "price": 117,
+      "price": 117.0,
       "inStock": true,
       "image": "/assets/spare-parts/91051-H9A-0000.jpg",
       "stock": 79
@@ -56590,7 +56590,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "42653-B8G-0000",
       "externalCode2": "42653-B8G-0000",
       "model": "NHX",
-      "price": 8,
+      "price": 8.0,
       "inStock": true,
       "image": "/assets/spare-parts/42653-B8G-0000.jpg",
       "stock": 100
@@ -57282,7 +57282,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "7720A-NH1-8004",
       "externalCode2": "7720A-NH1-8004",
       "model": "NHX",
-      "price": 1617,
+      "price": 1617.0,
       "inStock": true,
       "image": "/assets/spare-parts/7720A-NH1-8004.jpg",
       "stock": 9
@@ -57744,7 +57744,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "90121-NHA-0000",
       "externalCode2": "90121-NHA-0000",
       "model": "NHX",
-      "price": 130,
+      "price": 130.0,
       "inStock": true,
       "image": "/assets/spare-parts/90121-NHA-0000.jpg",
       "stock": 10
@@ -58091,7 +58091,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1750A-AAA-0000",
       "externalCode2": "1750A-AAA-0000",
       "model": "orbit2",
-      "price": 1625,
+      "price": 1625.0,
       "inStock": true,
       "image": "/assets/spare-parts/17500-AAA-0006.jpg",
       "stock": 60
@@ -58477,7 +58477,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "33400-ABF-0000-C",
       "externalCode2": "33400-ABF-0000-C",
       "model": "orbit2",
-      "price": 325,
+      "price": 325.0,
       "inStock": true,
       "stock": 174
   },
@@ -58489,7 +58489,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "33450-ABF-0000-C",
       "externalCode2": "33450-ABF-0000-C",
       "model": "orbit2",
-      "price": 325,
+      "price": 325.0,
       "inStock": true,
       "stock": 166
   },
@@ -58527,7 +58527,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "33700-ABP-0100",
       "externalCode2": "33700-ABP-0100",
       "model": "orbit2",
-      "price": 700,
+      "price": 700.0,
       "inStock": true,
       "image": "/assets/spare-parts/33700-ABP-0100.jpg",
       "stock": 131
@@ -58618,7 +58618,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3585A-35A-A000",
       "externalCode2": "35850-35A-A000",
       "model": "orbit2",
-      "price": 359,
+      "price": 359.0,
       "inStock": true,
       "image": "/assets/spare-parts/35850-35A-A000-CN2.jpg",
       "stock": 60
@@ -58849,7 +58849,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-A2P-0004",
       "externalCode2": "50100-A2P-0004",
       "model": "orbit2",
-      "price": 7500,
+      "price": 7500.0,
       "inStock": true,
       "stock": 5
   },
@@ -59017,7 +59017,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "52400-ABA-0101",
       "externalCode2": "52400-ABA-0101",
       "model": "orbit2",
-      "price": 800,
+      "price": 800.0,
       "inStock": false,
       "image": "/assets/spare-parts/52400-ABA-0101.jpg",
       "stock": 0
@@ -59054,7 +59054,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53200-AAA-0003",
       "externalCode2": "53200-AAA-0003",
       "model": "orbit2",
-      "price": 1400,
+      "price": 1400.0,
       "inStock": false,
       "image": "/assets/spare-parts/53200-AAA-0005.jpg",
       "stock": 0
@@ -59203,7 +59203,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53280-ABA-0000",
       "externalCode2": "53280-ABA-0000",
       "model": "orbit2",
-      "price": 65,
+      "price": 65.0,
       "inStock": true,
       "stock": 30
   },
@@ -59777,7 +59777,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "88110-KAA-0000-C",
       "externalCode2": "88110-KAA-0000-C",
       "model": "orbit2",
-      "price": 200,
+      "price": 200.0,
       "inStock": true,
       "image": "/assets/spare-parts/88110-KAA-0000.jpg",
       "stock": 215
@@ -59790,7 +59790,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "88120-KAA-0000-C",
       "externalCode2": "88120-KAA-0000-C",
       "model": "orbit2",
-      "price": 200,
+      "price": 200.0,
       "inStock": true,
       "image": "/assets/spare-parts/88120-KAA-0000.jpg",
       "stock": 215
@@ -59866,7 +59866,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "95801-08055-07",
       "externalCode2": "95801-AWU-0000",
       "model": "orbit2",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/95801-08055-07.jpg",
       "stock": 10
@@ -60893,7 +60893,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "21200-A6A-0002",
       "externalCode2": "21200-A6A-0003",
       "model": "S  150",
-      "price": 650,
+      "price": 650.0,
       "inStock": false,
       "image": "/assets/spare-parts/21200-A6A-0004-GL.jpg",
       "stock": 0
@@ -61139,7 +61139,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "28300-F6C-0000",
       "externalCode2": "28300-F6C-0000",
       "model": "S  150",
-      "price": 325,
+      "price": 325.0,
       "inStock": true,
       "image": "/assets/spare-parts/28300-F6C-0000.jpg",
       "stock": 69
@@ -61366,7 +61366,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35150-M9F-A000",
       "externalCode2": "35150-M9F-A000",
       "model": "S  150",
-      "price": 52,
+      "price": 52.0,
       "inStock": true,
       "image": "/assets/spare-parts/35150-M9F-A000.jpg",
       "stock": 602
@@ -61417,7 +61417,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35200-M9Q-0001",
       "externalCode2": "35200-M9Q-0001",
       "model": "S  150",
-      "price": 65,
+      "price": 65.0,
       "inStock": true,
       "image": "/assets/spare-parts/35200-M9Q-0001.jpg",
       "stock": 5
@@ -61443,7 +61443,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35341-M9Q-0000",
       "externalCode2": "35340-M9Q-0000",
       "model": "S  150",
-      "price": 65,
+      "price": 65.0,
       "inStock": true,
       "image": "/assets/spare-parts/35342-M9Q-0000.jpg",
       "stock": 200
@@ -61456,7 +61456,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35342-M9Q-0000",
       "externalCode2": "35342-M9Q-0000",
       "model": "S  150",
-      "price": 39,
+      "price": 39.0,
       "inStock": true,
       "image": "/assets/spare-parts/35342-M9Q-0000.jpg",
       "stock": 2445
@@ -61482,7 +61482,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3585A-35A-A000",
       "externalCode2": "35850-35A-A000",
       "model": "S  150",
-      "price": 359,
+      "price": 359.0,
       "inStock": false,
       "image": "/assets/spare-parts/35850-35A-A000-CN2.jpg",
       "stock": 0
@@ -61635,7 +61635,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4350A-APG-0002",
       "externalCode2": "4350A-APG-0002",
       "model": "S  150",
-      "price": 3125,
+      "price": 3125.0,
       "inStock": true,
       "image": "/assets/spare-parts/4350A-APG-0006-X3A-R-M1.jpg",
       "stock": 49
@@ -61764,7 +61764,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "45501-AAA-0000",
       "externalCode2": "45501-AAA-0000",
       "model": "S  150",
-      "price": 39,
+      "price": 39.0,
       "inStock": true,
       "image": "/assets/spare-parts/45500-AAA-0003.jpg",
       "stock": 13
@@ -61777,7 +61777,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4550A-APA-0005",
       "externalCode2": "4550A-APA-0005",
       "model": "S  150",
-      "price": 2075,
+      "price": 2075.0,
       "inStock": true,
       "image": "/assets/spare-parts/4550A-APA-0010-R.jpg",
       "stock": 46
@@ -61880,7 +61880,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50530-Z7E-0000",
       "externalCode2": "50530-Z7E-0000",
       "model": "S  150",
-      "price": 150,
+      "price": 150.0,
       "inStock": true,
       "image": "/assets/spare-parts/50530-Z7E-0000.jpg",
       "stock": 21
@@ -62010,7 +62010,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53140-S1F-H001",
       "externalCode2": "53140-S1F-H001",
       "model": "S  150",
-      "price": 78,
+      "price": 78.0,
       "inStock": true,
       "image": "/assets/spare-parts/53140-S1F-H001.jpg",
       "stock": 568
@@ -62023,7 +62023,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53166-S1F-H001",
       "externalCode2": "53166-S1F-H001",
       "model": "S  150",
-      "price": 52,
+      "price": 52.0,
       "inStock": true,
       "image": "/assets/spare-parts/53166-S1F-H001.jpg",
       "stock": 100
@@ -62738,7 +62738,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-APA-0000",
       "externalCode2": "8350A-APA-0001",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": false,
       "stock": 0
   },
@@ -62750,7 +62750,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-APA-0000-ad",
       "externalCode2": "8350A-APA-0000-ad",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 38
   },
@@ -62762,7 +62762,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-APA-0000-ag",
       "externalCode2": "8350A-APA-0000-ag",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 18
   },
@@ -62774,7 +62774,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-APA-0000-an",
       "externalCode2": "8350A-APA-0000-AN",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 20
   },
@@ -62786,7 +62786,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-APA-0000-BA",
       "externalCode2": "8350A-APA-0000-BA",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 60
   },
@@ -62798,7 +62798,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-APA-0000-BV",
       "externalCode2": "8350A-APA-0000-BV",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 24
   },
@@ -62810,7 +62810,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-APA-0000-kg",
       "externalCode2": "8350A-APA-0000-kg",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 67
   },
@@ -62822,7 +62822,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-APA-0000-rd",
       "externalCode2": "8350A-APA-0000-rd",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 20
   },
@@ -62834,7 +62834,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-APA-0000-wa",
       "externalCode2": "8350A-APA-0000-wa",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 30
   },
@@ -62846,7 +62846,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-AD",
       "externalCode2": "83520-APA-0001-AD",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-AD.jpg",
       "stock": 73
@@ -62859,7 +62859,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-ag",
       "externalCode2": "83520-APA-0001-ag",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-AG.jpg",
       "stock": 14
@@ -62872,7 +62872,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-BA",
       "externalCode2": "83520-APA-0001-BA",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-BA.jpg",
       "stock": 180
@@ -62885,7 +62885,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-BV",
       "externalCode2": "83520-APA-0001-BV",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-BV.jpg",
       "stock": 85
@@ -62898,7 +62898,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-kg",
       "externalCode2": "83520-APA-0001-kg",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-KG.jpg",
       "stock": 82
@@ -62911,7 +62911,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-rd",
       "externalCode2": "83520-APA-0001-rd",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-RD.jpg",
       "stock": 112
@@ -62924,7 +62924,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-SB",
       "externalCode2": "83520-APA-0001-SB",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-AD.jpg",
       "stock": 114
@@ -62937,7 +62937,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-wa",
       "externalCode2": "83520-APA-0001-wa",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-WA.jpg",
       "stock": 101
@@ -62950,7 +62950,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-APA-0000",
       "externalCode2": "8360A-APA-0000-KG",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": false,
       "stock": 0
   },
@@ -62962,7 +62962,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-APA-0000-ad",
       "externalCode2": "8360A-APA-0000-ad",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 37
   },
@@ -62974,7 +62974,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-APA-0000-ag",
       "externalCode2": "8360A-APA-0000-ag",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 11
   },
@@ -62986,7 +62986,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-APA-0000-an",
       "externalCode2": "8360A-APA-0000-wa",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 20
   },
@@ -62998,7 +62998,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-APA-0000-BA",
       "externalCode2": "8360A-APA-0000-BA",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 23
   },
@@ -63010,7 +63010,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-APA-0000-BV",
       "externalCode2": "8360A-APA-0000-BV",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 42
   },
@@ -63022,7 +63022,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-APA-0000-KG",
       "externalCode2": "8360A-APA-0000-KG",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 18
   },
@@ -63034,7 +63034,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-APA-0000-rd",
       "externalCode2": "8360A-APA-0000-rd",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 50
   },
@@ -63046,7 +63046,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-APA-0000-wa",
       "externalCode2": "8360A-APA-0000-wa",
       "model": "S  150",
-      "price": 1925,
+      "price": 1925.0,
       "inStock": true,
       "stock": 40
   },
@@ -63058,7 +63058,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-AD",
       "externalCode2": "83620-APA-0001-AD",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-AD.jpg",
       "stock": 138
@@ -63071,7 +63071,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-ag",
       "externalCode2": "83620-APA-0001-ag",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-AG.jpg",
       "stock": 18
@@ -63084,7 +63084,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-BA",
       "externalCode2": "83620-APA-0001-BA",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-BA.jpg",
       "stock": 126
@@ -63097,7 +63097,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-BV",
       "externalCode2": "83620-APA-0001-BV",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-BV.jpg",
       "stock": 149
@@ -63110,7 +63110,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-kg",
       "externalCode2": "83620-APA-0001-kg",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-KG.jpg",
       "stock": 88
@@ -63123,7 +63123,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-rd",
       "externalCode2": "83620-APA-0001-rd",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-RD.jpg",
       "stock": 108
@@ -63136,7 +63136,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-SB",
       "externalCode2": "83620-APA-0001-SB",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-AD.jpg",
       "stock": 137
@@ -63149,7 +63149,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-wa",
       "externalCode2": "83620-APA-0001-wa",
       "model": "S  150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-WA.jpg",
       "stock": 94
@@ -63338,7 +63338,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-X3A-9001",
       "externalCode2": "50100-X3A-9001",
       "model": "S 150",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": false,
       "image": "/assets/spare-parts/50100-X3A-9002.jpg",
       "stock": 0
@@ -63974,7 +63974,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35150-M9F-A000",
       "externalCode2": "35150-M9F-A000",
       "model": "SR 150",
-      "price": 52,
+      "price": 52.0,
       "inStock": false,
       "image": "/assets/spare-parts/35150-M9F-A000.jpg",
       "stock": 0
@@ -64000,7 +64000,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35200-M9Q-0001",
       "externalCode2": "35200-M9Q-0001",
       "model": "SR 150",
-      "price": 65,
+      "price": 65.0,
       "inStock": false,
       "image": "/assets/spare-parts/35200-M9Q-0001.jpg",
       "stock": 0
@@ -64013,7 +64013,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35342-M9Q-0000",
       "externalCode2": "35342-M9Q-0000",
       "model": "SR 150",
-      "price": 39,
+      "price": 39.0,
       "inStock": false,
       "image": "/assets/spare-parts/35342-M9Q-0000.jpg",
       "stock": 0
@@ -64026,7 +64026,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3585A-35A-A000",
       "externalCode2": "35850-35A-A000",
       "model": "SR 150",
-      "price": 359,
+      "price": 359.0,
       "inStock": false,
       "image": "/assets/spare-parts/35850-35A-A000-CN2.jpg",
       "stock": 0
@@ -64191,7 +64191,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "43126-APG-0001",
       "externalCode2": "43126-APG-0001",
       "model": "SR 150",
-      "price": 1100,
+      "price": 1100.0,
       "inStock": true,
       "image": "/assets/spare-parts/43126-APG-0001.jpg",
       "stock": 45
@@ -64217,7 +64217,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4350A-APG-0002",
       "externalCode2": "4350A-APG-0004-X3A-R",
       "model": "SR 150",
-      "price": 3125,
+      "price": 3125.0,
       "inStock": false,
       "image": "/assets/spare-parts/4350A-APG-0006-X3A-R-M1.jpg",
       "stock": 0
@@ -64359,7 +64359,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-X3A-0114",
       "externalCode2": "50100-X3A-0114",
       "model": "SR 150",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": true,
       "image": "/assets/spare-parts/50100-X3A-9002.jpg",
       "stock": 1
@@ -64515,7 +64515,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53140-S1F-H001",
       "externalCode2": "53140-S1F-H001",
       "model": "SR 150",
-      "price": 78,
+      "price": 78.0,
       "inStock": true,
       "image": "/assets/spare-parts/53140-S1F-H001.jpg",
       "stock": 100
@@ -64528,7 +64528,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53166-S1F-H001",
       "externalCode2": "53166-S1F-H001",
       "model": "SR 150",
-      "price": 52,
+      "price": 52.0,
       "inStock": true,
       "image": "/assets/spare-parts/53166-S1F-H001.jpg",
       "stock": 425
@@ -65383,7 +65383,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-BA",
       "externalCode2": "83520-APA-0001-BA",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": false,
       "image": "/assets/spare-parts/83520-APA-0001-BA.jpg",
       "stock": 0
@@ -65396,7 +65396,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-SB",
       "externalCode2": "83520-APA-0001-SB",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": false,
       "image": "/assets/spare-parts/83520-APA-0001-AD.jpg",
       "stock": 0
@@ -65409,7 +65409,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-EGY",
       "externalCode2": "83520-APA-EGY",
       "model": "SR 150",
-      "price": 130,
+      "price": 130.0,
       "inStock": false,
       "image": "/assets/spare-parts/83520-APA-0001-AD.jpg",
       "stock": 0
@@ -65422,7 +65422,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8352A-APA-0001-AD",
       "externalCode2": "8352A-APA-0001-AD",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-AD.jpg",
       "stock": 47
@@ -65435,7 +65435,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8352A-APA-0001-AG",
       "externalCode2": "8352A-APA-0001-AG",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-AG.jpg",
       "stock": 42
@@ -65448,7 +65448,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8352A-APA-0001-an",
       "externalCode2": "8352A-APA-0001-an",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-AN.jpg",
       "stock": 123
@@ -65461,7 +65461,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8352A-APA-0001-BV",
       "externalCode2": "8352A-APA-0001-BV",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-BV.jpg",
       "stock": 21
@@ -65474,7 +65474,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8352A-APA-0001-KG",
       "externalCode2": "8352A-APA-0001-KG",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-KG.jpg",
       "stock": 57
@@ -65487,7 +65487,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8352A-APA-0001-RD",
       "externalCode2": "8352A-APA-0001-RD",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-RD.jpg",
       "stock": 89
@@ -65500,7 +65500,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8352A-APA-0001-WA",
       "externalCode2": "8352A-APA-0001-WA",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-WA.jpg",
       "stock": 36
@@ -65629,7 +65629,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-BA",
       "externalCode2": "83620-APA-0001-BA",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-BA.jpg",
       "stock": 44
@@ -65642,7 +65642,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-EGY",
       "externalCode2": "83620-APA-EGY",
       "model": "SR 150",
-      "price": 130,
+      "price": 130.0,
       "inStock": false,
       "image": "/assets/spare-parts/83620-APA-0001-AD.jpg",
       "stock": 0
@@ -65655,7 +65655,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8362A-APA-0001-AD",
       "externalCode2": "8362A-APA-0001-AD",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-AD.jpg",
       "stock": 115
@@ -65668,7 +65668,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8362A-APA-0001-AG",
       "externalCode2": "8362A-APA-0001-AG",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-AG.jpg",
       "stock": 29
@@ -65681,7 +65681,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8362A-APA-0001-an",
       "externalCode2": "8362A-APA-0001-an",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-AD.jpg",
       "stock": 62
@@ -65694,7 +65694,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8362A-APA-0001-BV",
       "externalCode2": "8362A-APA-0001-BV",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-BV.jpg",
       "stock": 22
@@ -65707,7 +65707,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8362A-APA-0001-KG",
       "externalCode2": "8362A-APA-0001-KG",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-KG.jpg",
       "stock": 46
@@ -65720,7 +65720,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8362A-APA-0001-RD",
       "externalCode2": "8362A-APA-0001-RD",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-RD.jpg",
       "stock": 107
@@ -65733,7 +65733,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8362A-APA-0001-SB",
       "externalCode2": "8362A-APA-0001-SB",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-AD.jpg",
       "stock": 25
@@ -65746,7 +65746,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8362A-APA-0001-WA",
       "externalCode2": "8362A-APA-0001-WA",
       "model": "SR 150",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-WA.jpg",
       "stock": 47
@@ -65939,7 +65939,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8352A-APA-0001-Y",
       "externalCode2": "8352A-APA-0001-Y",
       "model": "SR150 / 200",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83520-APA-0001-Y.jpg",
       "stock": 68
@@ -65976,7 +65976,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8362A-APA-0001-Y",
       "externalCode2": "8362A-APA-0001-Y",
       "model": "SR150 / 200",
-      "price": 725,
+      "price": 725.0,
       "inStock": true,
       "image": "/assets/spare-parts/83620-APA-0001-Y.jpg",
       "stock": 77
@@ -66699,7 +66699,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "21200-A6A-0002",
       "externalCode2": "21200-A6A-0002",
       "model": "ST",
-      "price": 650,
+      "price": 650.0,
       "inStock": true,
       "image": "/assets/spare-parts/21200-A6A-0004-GL.jpg",
       "stock": 228
@@ -67138,7 +67138,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "35200-M9Q-0001",
       "externalCode2": "35200-M9Q-0001",
       "model": "ST",
-      "price": 65,
+      "price": 65.0,
       "inStock": false,
       "image": "/assets/spare-parts/35200-M9Q-0001.jpg",
       "stock": 0
@@ -67189,7 +67189,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "37800-XPA-0001",
       "externalCode2": "37800-BBA-0000",
       "model": "ST",
-      "price": 200,
+      "price": 200.0,
       "inStock": false,
       "image": "/assets/spare-parts/37800-XPA-0101.jpg",
       "stock": 0
@@ -67421,7 +67421,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-XRA-0007",
       "externalCode2": "50100-XRA-0007",
       "model": "ST",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": true,
       "stock": 1
   },
@@ -67550,7 +67550,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50530-Z7E-0000",
       "externalCode2": "50530-Z7E-0000",
       "model": "ST",
-      "price": 150,
+      "price": 150.0,
       "inStock": false,
       "image": "/assets/spare-parts/50530-Z7E-0000.jpg",
       "stock": 0
@@ -68824,7 +68824,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "81201-XPA-0000",
       "externalCode2": "81201-XPA-0000",
       "model": "ST",
-      "price": 50,
+      "price": 50.0,
       "inStock": true,
       "image": "/assets/spare-parts/81200-XPA-0000-AE.jpg",
       "stock": 100
@@ -68863,7 +68863,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-XSA-0000-AD",
       "externalCode2": "8350A-XSA-0000-AD",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": false,
       "stock": 0
   },
@@ -68875,7 +68875,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-XSA-0000-AG",
       "externalCode2": "8350A-XSA-0000-AG",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 1
   },
@@ -68887,7 +68887,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-XSA-0000-BA",
       "externalCode2": "8350A-XSA-0000-BA",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 39
   },
@@ -68899,7 +68899,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-XSA-0000-K",
       "externalCode2": "8350A-XSA-0000-K",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 65
   },
@@ -68911,7 +68911,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-XSA-0000-KH",
       "externalCode2": "8350A-XSA-0000-KH",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 27
   },
@@ -68923,7 +68923,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-XSA-0000-RI",
       "externalCode2": "8350A-XSA-0000-RI",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 46
   },
@@ -68935,7 +68935,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8350A-XSA-0000-WA",
       "externalCode2": "8350A-XSA-0000-WA",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 7
   },
@@ -69129,7 +69129,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-XSA-0000-AD",
       "externalCode2": "8360A-XSA-0000-AD",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 55
   },
@@ -69141,7 +69141,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-XSA-0000-AG",
       "externalCode2": "8360A-XSA-0000-AG",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 31
   },
@@ -69153,7 +69153,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-XSA-0000-BA",
       "externalCode2": "8360A-XSA-0000-BA",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 61
   },
@@ -69165,7 +69165,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-XSA-0000-K",
       "externalCode2": "8360A-XSA-0000-K",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 26
   },
@@ -69177,7 +69177,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-XSA-0000-KH",
       "externalCode2": "8360A-XSA-0000-KH",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 67
   },
@@ -69189,7 +69189,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-XSA-0000-rd",
       "externalCode2": "8360A-XSA-0000-rd",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 32
   },
@@ -69201,7 +69201,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8360A-XSA-0000-WA",
       "externalCode2": "8360A-XSA-0000-WA",
       "model": "ST",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 11
   },
@@ -69473,7 +69473,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "88110-XPA-0003-K",
       "externalCode2": "88110-XPA-0003",
       "model": "ST",
-      "price": 275,
+      "price": 275.0,
       "inStock": true,
       "image": "/assets/spare-parts/88110-XPA-0004-K.jpg",
       "stock": 109
@@ -69486,7 +69486,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "88120-XPA-0003-K",
       "externalCode2": "88120-XPA-0003",
       "model": "ST",
-      "price": 275,
+      "price": 275.0,
       "inStock": true,
       "image": "/assets/spare-parts/88120-XPA-0003-K.jpg",
       "stock": 111
@@ -69589,7 +69589,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "91201-HHA-3001",
       "externalCode2": "91201-HHA-3001",
       "model": "ST",
-      "price": 39,
+      "price": 39.0,
       "inStock": false,
       "image": "/assets/spare-parts/91201-HHA-3001.jpg",
       "stock": 0
@@ -69732,7 +69732,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "10 w 40",
       "externalCode2": "10 w 40",
       "model": "SYM",
-      "price": 300,
+      "price": 300.0,
       "inStock": true,
       "stock": 30
   },
@@ -69792,7 +69792,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "",
       "externalCode2": "",
       "model": "SYM",
-      "price": 125,
+      "price": 125.0,
       "inStock": false,
       "stock": 0
   },
@@ -69804,7 +69804,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "",
       "externalCode2": "",
       "model": "SYM",
-      "price": 540,
+      "price": 540.0,
       "inStock": false,
       "stock": 0
   },
@@ -69816,7 +69816,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "",
       "externalCode2": "",
       "model": "SYM",
-      "price": 540,
+      "price": 540.0,
       "inStock": false,
       "stock": 0
   },
@@ -69828,7 +69828,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "",
       "externalCode2": "",
       "model": "SYM",
-      "price": 2000,
+      "price": 2000.0,
       "inStock": false,
       "stock": 0
   },
@@ -69852,7 +69852,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "",
       "externalCode2": "",
       "model": "SYM",
-      "price": 250,
+      "price": 250.0,
       "inStock": false,
       "stock": 0
   },
@@ -69994,7 +69994,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "11A20-NHA-000",
       "externalCode2": "11A20-NHA-000",
       "model": "SYM NH T/NH",
-      "price": 37750,
+      "price": 37750.0,
       "inStock": false,
       "image": "/assets/spare-parts/11200-NHA-0109.jpg",
       "stock": 0
@@ -70409,7 +70409,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "14721-VF3-0000",
       "externalCode2": "14721-VF3-0000",
       "model": "SYM NH T/NH",
-      "price": 374,
+      "price": 374.0,
       "inStock": true,
       "image": "/assets/spare-parts/14721-VF3-0000.jpg",
       "stock": 187
@@ -72480,7 +72480,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "44315-N7B-E100",
       "externalCode2": "44315-N7B-E100",
       "model": "SYM NH T/NH",
-      "price": 13,
+      "price": 13.0,
       "inStock": true,
       "image": "/assets/spare-parts/44315-N7B-E100.jpg",
       "stock": 42
@@ -72700,7 +72700,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-NH1",
       "externalCode2": "50100-NH1",
       "model": "SYM NH T/NH",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": true,
       "stock": 9
   },
@@ -73762,7 +73762,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "7720A-NH1-0002",
       "externalCode2": "7720A-NH1-0002",
       "model": "SYM NH T/NH",
-      "price": 1617,
+      "price": 1617.0,
       "inStock": true,
       "image": "/assets/spare-parts/7720A-NH1-0004.jpg",
       "stock": 10
@@ -74485,7 +74485,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-NHA",
       "externalCode2": "50100-NHA",
       "model": "SYM NH X",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": true,
       "image": "/assets/spare-parts/50109-NHA-0004.jpg",
       "stock": 5
@@ -75283,7 +75283,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "22870-BBA-0001",
       "externalCode2": "22870-BBA-0001",
       "model": "SYM T1",
-      "price": 133,
+      "price": 133.0,
       "inStock": true,
       "stock": 67
   },
@@ -76037,7 +76037,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4260A-B9A-0000",
       "externalCode2": "4260A-B9A-0000",
       "model": "SYM T1",
-      "price": 6418,
+      "price": 6418.0,
       "inStock": true,
       "stock": 60
   },
@@ -76285,7 +76285,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-BBA-0009",
       "externalCode2": "50100-BBA-0009",
       "model": "SYM T1",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": true,
       "stock": 6
   },
@@ -76819,7 +76819,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "53231-BBA-0001",
       "externalCode2": "53231-BBA-0001",
       "model": "SYM T1",
-      "price": 739,
+      "price": 739.0,
       "inStock": true,
       "image": "/assets/spare-parts/53231-BBA-0002-AE.jpg",
       "stock": 26
@@ -78436,7 +78436,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "2212A-C50-A000",
       "externalCode2": "2212A-C50-A000",
       "model": "x wolf",
-      "price": 1375,
+      "price": 1375.0,
       "inStock": true,
       "stock": 12
   },
@@ -79155,7 +79155,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "41241-NF1-0000",
       "externalCode2": "41241-NF1-0000",
       "model": "x wolf",
-      "price": 248,
+      "price": 248.0,
       "inStock": true,
       "stock": 19
   },
@@ -79388,7 +79388,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50100-NFA-0100",
       "externalCode2": "50100-NFA-0100",
       "model": "x wolf",
-      "price": 10000,
+      "price": 10000.0,
       "inStock": false,
       "stock": 0
   },
@@ -80461,7 +80461,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1136110",
       "externalCode2": "1136110",
       "model": "SYM T1",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 38
   },
@@ -80473,7 +80473,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "11A2021",
       "externalCode2": "11A2021",
       "model": "HUSKY",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80510,7 +80510,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "123927",
       "externalCode2": "123927",
       "model": "SR 150",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80522,7 +80522,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1415123",
       "externalCode2": "1415123",
       "model": "cruisym 400",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 3
   },
@@ -80534,7 +80534,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1443A-XWA-0001",
       "externalCode2": "1443A-XWA-0001",
       "model": "عام",
-      "price": 500,
+      "price": 500.0,
       "inStock": false,
       "stock": 0,
       "image": "/assets/spare-parts/1443A-XWA-0001.jpg"
@@ -80560,7 +80560,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "14520-N1710-000",
       "externalCode2": "14520-N1710-000",
       "model": "عام",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80572,7 +80572,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "151336",
       "externalCode2": "151336",
       "model": "fiddle 2",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 5
   },
@@ -80597,7 +80597,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "175712",
       "externalCode2": "175712",
       "model": "fiddle 3",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80609,7 +80609,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "1765524",
       "externalCode2": "1765524",
       "model": "ADIVA",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 60
   },
@@ -80621,7 +80621,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "17682-X82-0004",
       "externalCode2": "17682-X82-0004",
       "model": "عام",
-      "price": 500,
+      "price": 500.0,
       "inStock": false,
       "stock": 0
   },
@@ -80658,7 +80658,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "2130a-L4A-0003",
       "externalCode2": "2130a-L4A-0003",
       "model": "عام",
-      "price": 3750,
+      "price": 3750.0,
       "inStock": false,
       "stock": 0
   },
@@ -80708,7 +80708,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "232218",
       "externalCode2": "232218",
       "model": "x wolf",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 8
   },
@@ -80720,7 +80720,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "234418",
       "externalCode2": "234418",
       "model": "x wolf",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80732,7 +80732,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "235208",
       "externalCode2": "235208",
       "model": "x wolf",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80744,7 +80744,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "282218",
       "externalCode2": "282218",
       "model": "x wolf",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80756,7 +80756,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "282618",
       "externalCode2": "282618",
       "model": "x wolf",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80768,7 +80768,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "282718",
       "externalCode2": "282718",
       "model": "x wolf",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80780,7 +80780,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3150017E",
       "externalCode2": "3150017E",
       "model": "fiddle 4",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 5
   },
@@ -80792,7 +80792,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3160018",
       "externalCode2": "3160018",
       "model": "JET 14 EVO",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 60
   },
@@ -80829,7 +80829,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3210125",
       "externalCode2": "3210125",
       "model": "NEW SR",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 408
   },
@@ -80841,7 +80841,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3242019",
       "externalCode2": "3242019",
       "model": "NHX",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 60
   },
@@ -80879,7 +80879,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "33900-M1100",
       "externalCode2": "33900-M1100",
       "model": "عام",
-      "price": 825,
+      "price": 825.0,
       "inStock": true,
       "stock": 1
   },
@@ -80915,7 +80915,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "351104",
       "externalCode2": "351104",
       "model": "ST",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80940,7 +80940,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "37200-AAJ-0000",
       "externalCode2": "37200-AAJ-0000",
       "model": "عام",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80977,7 +80977,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "3871b14",
       "externalCode2": "3871b14",
       "model": "cruisym 300",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -80989,7 +80989,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4260A10",
       "externalCode2": "4260A10",
       "model": "SYM T1",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81001,7 +81001,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4260a13",
       "externalCode2": "4260a13",
       "model": "SYM NH T/NH",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81013,7 +81013,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4260a18",
       "externalCode2": "4260a18",
       "model": "JET 14 EVO",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 1
   },
@@ -81025,7 +81025,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4460A14",
       "externalCode2": "4460A14",
       "model": "cruisym 300",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81037,7 +81037,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4460a18",
       "externalCode2": "4460a18",
       "model": "JET 14 EVO",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81049,7 +81049,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "4460A5",
       "externalCode2": "4460A5",
       "model": "JOYRAID",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81061,7 +81061,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "446212",
       "externalCode2": "446212",
       "model": "fiddle 3",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 50
   },
@@ -81085,7 +81085,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50181-X8A-0100",
       "externalCode2": "50181-X8A-0100",
       "model": "عام",
-      "price": 750,
+      "price": 750.0,
       "inStock": false,
       "stock": 0,
       "image": "/assets/spare-parts/50181-X8A-0100.jpg"
@@ -81098,7 +81098,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "50182-X8A-0100",
       "externalCode2": "50182-X8A-0100",
       "model": "عام",
-      "price": 750,
+      "price": 750.0,
       "inStock": false,
       "stock": 0,
       "image": "/assets/spare-parts/50182-X8A-0100.jpg"
@@ -81111,7 +81111,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5032110",
       "externalCode2": "5032110",
       "model": "SYM T1",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 6
   },
@@ -81136,7 +81136,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5038014",
       "externalCode2": "5038014",
       "model": "cruisym 300",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81148,7 +81148,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5050523",
       "externalCode2": "5050523",
       "model": "cruisym 400",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 10
   },
@@ -81160,7 +81160,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5240018",
       "externalCode2": "5240018",
       "model": "JET 14 EVO",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81172,7 +81172,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5240116",
       "externalCode2": "5240116",
       "model": "NEW-ST",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 120
   },
@@ -81184,7 +81184,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5250018",
       "externalCode2": "5250018",
       "model": "JET 14 EVO",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81196,7 +81196,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5310B12RD",
       "externalCode2": "5310B12RD",
       "model": "orbit2",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 5
   },
@@ -81208,7 +81208,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5310B12WD",
       "externalCode2": "5310B12WD",
       "model": "orbit2",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 5
   },
@@ -81220,7 +81220,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5310B2SB",
       "externalCode2": "5310B2SB",
       "model": "fiddle 3",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 5
   },
@@ -81232,7 +81232,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5310B2WA",
       "externalCode2": "5310B2WA",
       "model": "fiddle 3",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 5
   },
@@ -81244,7 +81244,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5310B4KH",
       "externalCode2": "5310B4KH",
       "model": "ST",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 5
   },
@@ -81256,7 +81256,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5310B7AD",
       "externalCode2": "5310B7AD",
       "model": "SR 150",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 5
   },
@@ -81281,7 +81281,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "5314E-XVA-0000",
       "externalCode2": "5314E-XVA-0000",
       "model": "عام",
-      "price": 1875,
+      "price": 1875.0,
       "inStock": false,
       "stock": 0
   },
@@ -81391,7 +81391,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "55555",
       "externalCode2": "55555",
       "model": "SYM",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81490,7 +81490,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "642038",
       "externalCode2": "642038",
       "model": "x wolf",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 105
   },
@@ -81687,7 +81687,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "7448114",
       "externalCode2": "7448114",
       "model": "cruisym 300",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81808,7 +81808,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "8115111",
       "externalCode2": "8115111",
       "model": "JET 14",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -81857,7 +81857,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83500-XPA-0001-AN",
       "externalCode2": "83500-XPA-0001-AN",
       "model": "عام",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 29
   },
@@ -81869,7 +81869,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83500-XPA-0001-AQ",
       "externalCode2": "83500-XPA-0001-AQ",
       "model": "عام",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": false,
       "stock": 0
   },
@@ -81881,7 +81881,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83500-XPA-0001-GH",
       "externalCode2": "83500-XPA-0001-GH",
       "model": "عام",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 9
   },
@@ -81995,7 +81995,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-AQ",
       "externalCode2": "83520-APA-0001-AQ",
       "model": "عام",
-      "price": 725,
+      "price": 725.0,
       "inStock": false,
       "stock": 0,
       "image": "/assets/spare-parts/83520-APA-0001-AQ.jpg"
@@ -82008,7 +82008,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83520-APA-0001-GH",
       "externalCode2": "83520-APA-0001-GH",
       "model": "عام",
-      "price": 725,
+      "price": 725.0,
       "inStock": false,
       "stock": 0
   },
@@ -82068,7 +82068,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83600-XPA-0002-AN",
       "externalCode2": "83600-XPA-0002-AN",
       "model": "عام",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 29
   },
@@ -82080,7 +82080,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83600-XPA-0002-AQ",
       "externalCode2": "83600-XPA-0002-AQ",
       "model": "عام",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": false,
       "stock": 0
   },
@@ -82092,7 +82092,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83600-XPA-0002-GH",
       "externalCode2": "83600-XPA-0002-GH",
       "model": "عام",
-      "price": 1420,
+      "price": 1420.0,
       "inStock": true,
       "stock": 29
   },
@@ -82230,7 +82230,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "83620-APA-0001-AQ",
       "externalCode2": "83620-APA-0001-AQ",
       "model": "عام",
-      "price": 725,
+      "price": 725.0,
       "inStock": false,
       "stock": 0,
       "image": "/assets/spare-parts/83620-APA-0001-AQ.jpg"
@@ -82364,7 +82364,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "9010523",
       "externalCode2": "9010523",
       "model": "cruisym 400",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 10
   },
@@ -82376,7 +82376,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "9020113",
       "externalCode2": "9020113",
       "model": "SYM NH T/NH",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 10
   },
@@ -82388,7 +82388,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "903042",
       "externalCode2": "903042",
       "model": "fiddle 3",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -82400,7 +82400,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "9044218",
       "externalCode2": "9044218",
       "model": "JET 14 EVO",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 15
   },
@@ -82412,7 +82412,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "904588",
       "externalCode2": "904588",
       "model": "x wolf",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -82424,7 +82424,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "906018",
       "externalCode2": "906018",
       "model": "x wolf",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -82436,7 +82436,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "907007",
       "externalCode2": "907007",
       "model": "SR 150",
-      "price": 0,
+      "price": 0.0,
       "inStock": false,
       "stock": 0
   },
@@ -82499,7 +82499,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "9360015",
       "externalCode2": "9360015",
       "model": "jet X",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 10
   },
@@ -82511,7 +82511,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "9580015",
       "externalCode2": "9580015",
       "model": "jet X",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 10
   },
@@ -82523,7 +82523,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "9580115",
       "externalCode2": "9580115",
       "model": "jet X",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 10
   },
@@ -82535,7 +82535,7 @@ export const SPARE_PARTS: SparePartItem[] = [
       "externalCode1": "9600114",
       "externalCode2": "9600114",
       "model": "cruisym 300",
-      "price": 0,
+      "price": 0.0,
       "inStock": true,
       "stock": 132
   }

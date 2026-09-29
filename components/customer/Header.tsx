@@ -80,7 +80,7 @@ export default function Header() {
                 onMouseLeave={handleMouseLeave}
               >
                 <Link
-                  href="/products/scooter/all"
+                  href="/all-models?category=SCOOTER&cc=ALL"
                   className={`text-sm font-bold tracking-tight transition-colors h-full flex items-center ${activeMenu === 'ekickscooter' ? 'text-red-500' : 'text-gray-200 hover:text-red-500'
                     }`}
                 >
@@ -319,7 +319,7 @@ export default function Header() {
                         <ul className="space-y-6">
                           <li>
                             <Link
-                              href="/products/scooter/all"
+                              href="/all-models?category=SCOOTER&cc=ALL"
                               className="group flex items-center text-white hover:text-red-500 font-bold text-xl tracking-tight transition-colors"
                             >
                               <svg
@@ -342,7 +342,7 @@ export default function Header() {
                           </li>
                           <li>
                             <Link
-                              href="/products/scooter/all"
+                              href="/all-models?category=SCOOTER&cc=ALL"
                               className="group flex items-center text-white hover:text-red-500 font-bold text-xl tracking-tight transition-colors"
                             >
                               <svg
@@ -365,7 +365,7 @@ export default function Header() {
                           </li>
                           <li>
                             <Link
-                              href="/products/scooter/all"
+                              href="/compare"
                               className="group flex items-center text-white hover:text-red-500 font-bold text-xl tracking-tight transition-colors"
                             >
                               <svg
@@ -390,7 +390,7 @@ export default function Header() {
 
                         <div className="mt-10">
                           <Link
-                            href="/products/scooter/all"
+                            href="/all-models?category=SCOOTER&cc=ALL"
                             className="text-gray-300 hover:text-red-500 text-sm font-semibold transition-colors block"
                           >
                             {t('nav.shopNow', 'Shop eKickScooter')}
